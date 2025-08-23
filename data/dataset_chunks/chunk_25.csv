@@ -1,0 +1,430 @@
+Title,Streaming Platform,Release Date,Duration,Genres,Award Wins,Award Nominations,Metascore,Critic Category,Critic positive counts,Critic positive percentage,Critic mixed counts,Critic mixed percentage,Critic negative counts,Critic negative percentage,User Score Category,User Score,User positive counts,User positive percentage,User mixed counts,User mixed percentage,User negative counts,User negative percentage
+Loosies,IFC Films,"Jan 11, 2012",1 h 28 m,"['Comedy', 'Crime', 'Romance']",0,0,35,Generally Unfavorable,2,18,4,36,5,45,Generally Favorable,6.3,5,63,2,25,1,13
+The Last Exorcism Part II,CBS Films,"Mar 1, 2013",1 h 28 m,"['Horror', 'Thriller']",1,3,35,Generally Unfavorable,0,0,12,60,8,40,Generally Unfavorable,3.7,11,18,21,34,30,48
+Kraven the Hunter,Columbia Pictures,"Dec 13, 2024",2 h 7 m,"['Action', 'Adventure', 'Thriller']",0,5,35,Generally Unfavorable,1,2,24,59,16,39,Mixed or Average,4.7,74,31,72,31,89,38
+What's Your Number?,Twentieth Century Fox Film Corporation,"Sep 30, 2011",1 h 46 m,"['Comedy', 'Romance']",1,1,35,Generally Unfavorable,3,10,17,55,11,35,Mixed or Average,5.6,24,32,37,49,14,19
+Mirrors,Twentieth Century Fox Film Corporation,"Aug 15, 2008",1 h 50 m,"['Horror', 'Mystery']",0,2,35,Generally Unfavorable,1,8,6,46,6,46,Mixed or Average,5.9,40,40,43,43,17,17
+Hitman,Twentieth Century Fox Film Corporation,"Nov 21, 2007",1 h 40 m,"['Action', 'Crime', 'Thriller']",2,2,35,Generally Unfavorable,3,14,8,36,11,50,Mixed or Average,5.9,91,46,70,35,37,19
+Lullaby,ARC Entertainment (II),"Jun 13, 2014",1 h 57 m,['Drama'],1,2,35,Generally Unfavorable,3,21,7,50,4,29,Mixed or Average,5.6,2,40,1,20,2,40
+Family Weekend,ARC Entertainment (II),"Mar 29, 2013",1 h 45 m,"['Comedy', 'Drama']",0,0,35,Generally Unfavorable,1,14,2,29,4,57,Generally Unfavorable,3.7,2,15,5,38,6,46
+Primeval,Buena Vista Pictures,"Jan 12, 2007",1 h 33 m,"['Action', 'Adventure', 'Crime', 'Horror', 'War']",0,0,35,Generally Unfavorable,1,9,3,27,7,64,Generally Favorable,6.6,8,50,5,31,3,19
+Happy Tears,Roadside Attractions,"Feb 19, 2010",1 h 35 m,"['Comedy', 'Drama']",0,1,35,Generally Unfavorable,2,12,6,35,9,53,Mixed or Average,5.0,3,43,1,14,3,43
+Proud Mary,Screen Gems,"Jan 12, 2018",1 h 29 m,"['Action', 'Crime', 'Drama', 'Thriller']",1,5,35,Generally Unfavorable,1,4,12,52,10,43,Mixed or Average,4.5,8,21,18,47,12,32
+The Last Thing He Wanted,Netflix,"Feb 14, 2020",1 h 55 m,"['Crime', 'Drama', 'Mystery', 'Thriller']",1,2,35,Generally Unfavorable,1,6,10,63,5,31,Mixed or Average,4.3,10,29,7,20,18,51
+Loser,Sony Pictures Entertainment (SPE),"Jul 21, 2000",1 h 38 m,"['Comedy', 'Romance']",0,1,35,Generally Unfavorable,5,17,10,34,14,48,Mixed or Average,5.7,9,38,9,38,6,25
+Friday After Next,New Line Cinema,"Nov 22, 2002",1 h 25 m,"['Comedy', 'Drama']",0,0,35,Generally Unfavorable,4,17,10,42,10,42,Mixed or Average,5.8,12,40,11,37,7,23
+Ghost Rider,Sony Pictures Entertainment (SPE),"Feb 16, 2007",1 h 54 m,"['Action', 'Fantasy', 'Thriller']",1,5,35,Generally Unfavorable,1,5,9,45,10,50,Mixed or Average,5.1,86,27,144,45,87,27
+Paradise,Image Entertainment,"Oct 18, 2013",1 h 26 m,"['Comedy', 'Drama']",0,0,35,Generally Unfavorable,0,0,10,67,5,33,Mixed or Average,4.8,6,27,7,32,9,41
+Kingsglaive: Final Fantasy XV,Stage 6 Films,"Aug 19, 2016",1 h 50 m,"['Animation', 'Action', 'Adventure', 'Drama', 'Fantasy', 'Sci-Fi']",0,2,35,Generally Unfavorable,1,10,5,50,4,40,Generally Favorable,8.0,404,81,51,10,45,9
+Java Heat,IFC Films,"May 10, 2013",1 h 44 m,"['Action', 'Adventure', 'Crime', 'Mystery', 'Thriller']",0,0,35,Generally Unfavorable,0,0,5,63,3,38,Mixed or Average,4.7,4,36,1,9,6,55
+Beyond a Reasonable Doubt,After Dark Films,"Sep 11, 2009",1 h 46 m,"['Crime', 'Drama', 'Mystery', 'Thriller']",0,0,35,Generally Unfavorable,0,0,9,82,2,18,Generally Favorable,6.7,8,67,1,8,3,25
+Yogi Bear,Warner Bros. Pictures,"Dec 17, 2010",1 h 20 m,"['Animation', 'Adventure', 'Comedy', 'Family']",2,3,35,Generally Unfavorable,2,9,10,43,11,48,Mixed or Average,4.6,33,30,37,34,39,36
+Rebel Moon Part 2: The Scargiver,Netflix,"Apr 19, 2024",2 h 2 m,"['Action', 'Adventure', 'Drama', 'Fantasy', 'Sci-Fi']",2,3,35,Generally Unfavorable,2,7,19,68,7,25,Generally Unfavorable,3.9,66,26,48,19,137,55
+The Three Musketeers,Summit Entertainment,"Oct 21, 2011",1 h 50 m,"['Action', 'Adventure', 'Fantasy', 'Romance', 'Thriller']",0,5,35,Generally Unfavorable,1,7,8,53,6,40,Mixed or Average,5.0,56,32,63,36,55,32
+I Spy,Columbia Pictures,"Nov 1, 2002",1 h 37 m,"['Action', 'Adventure', 'Comedy', 'Thriller']",2,8,35,Generally Unfavorable,3,10,13,42,15,48,Mixed or Average,5.8,16,43,14,38,7,19
+Diablo,Orion Pictures,"Jan 8, 2016",1 h 30 m,"['Action', 'Adventure', 'Drama', 'Thriller', 'Western']",2,5,35,Generally Unfavorable,1,11,4,44,4,44,Generally Unfavorable,2.3,3,14,2,10,16,76
+The Wedding Ringer,Screen Gems,"Jan 16, 2015",1 h 41 m,"['Comedy', 'Romance']",2,4,35,Generally Unfavorable,6,22,8,30,13,48,Generally Favorable,6.1,51,50,38,37,13,13
+Escape from Planet Earth,"Weinstein Company, The","Feb 15, 2013",1 h 29 m,"['Animation', 'Adventure', 'Comedy', 'Family', 'Sci-Fi']",1,1,35,Generally Unfavorable,0,0,8,73,3,27,Mixed or Average,5.3,28,35,30,37,23,28
+Diana,Entertainment One,"Nov 1, 2013",1 h 53 m,"['Biography', 'Drama', 'Romance']",2,4,35,Generally Unfavorable,1,4,14,50,13,46,Mixed or Average,4.0,10,20,18,36,22,44
+The Binge,Hulu,"Aug 28, 2020",1 h 38 m,['Comedy'],0,0,35,Generally Unfavorable,1,10,4,40,5,50,Generally Unfavorable,2.9,1,9,4,36,6,55
+Hannibal Rising,Metro-Goldwyn-Mayer (MGM),"Feb 9, 2007",2 h 1 m,"['Adventure', 'Crime', 'Drama', 'Thriller', 'War']",0,2,35,Generally Unfavorable,4,13,12,40,14,47,Mixed or Average,5.1,30,32,35,37,29,31
+Self/less,Focus Features,"Jul 10, 2015",1 h 57 m,"['Action', 'Mystery', 'Sci-Fi', 'Thriller']",0,0,34,Generally Unfavorable,2,7,15,50,13,43,Generally Favorable,6.1,68,49,54,39,17,12
+The Other Man,Image Entertainment,"Sep 11, 2009",1 h 28 m,"['Drama', 'Mystery', 'Thriller']",0,0,34,Generally Unfavorable,0,0,6,75,2,25,Mixed or Average,4.9,6,40,4,27,5,33
+Mission to Mars,Buena Vista Pictures Distribution,"Mar 10, 2000",1 h 54 m,"['Adventure', 'Sci-Fi', 'Thriller']",0,3,34,Generally Unfavorable,6,17,16,44,14,39,Generally Favorable,6.1,28,44,26,41,9,14
+Red Planet,Warner Bros. Pictures,"Nov 10, 2000",1 h 46 m,"['Action', 'Sci-Fi', 'Thriller']",0,1,34,Generally Unfavorable,2,7,14,52,11,41,Generally Favorable,6.5,27,48,23,41,6,11
+The Glass House,Columbia Pictures,"Sep 14, 2001",1 h 46 m,"['Crime', 'Drama', 'Mystery', 'Thriller']",0,3,34,Generally Unfavorable,4,24,6,35,7,41,Generally Favorable,6.1,8,29,18,64,2,7
+The Glass House,Columbia Pictures,"Sep 14, 2001",1 h 46 m,"['Crime', 'Drama', 'Mystery', 'Thriller']",0,3,34,Generally Unfavorable,4,24,6,35,7,41,Generally Favorable,6.1,8,29,18,64,2,7
+Bewitched,Columbia Pictures,"Jun 24, 2005",1 h 42 m,"['Comedy', 'Fantasy', 'Romance']",2,13,34,Generally Unfavorable,4,10,21,54,14,36,Mixed or Average,5.0,18,28,25,38,22,34
+The Back-up Plan,CBS Films,"Apr 23, 2010",1 h 46 m,"['Comedy', 'Romance']",0,2,34,Generally Unfavorable,4,13,18,56,10,31,Mixed or Average,5.5,16,31,25,48,11,21
+Harold and the Purple Crayon,Columbia Pictures,"Aug 2, 2024",1 h 30 m,"['Animation', 'Adventure', 'Comedy', 'Family', 'Fantasy']",0,2,34,Generally Unfavorable,1,4,13,57,9,39,Mixed or Average,5.1,16,42,8,21,14,37
+The Assignment,Saban Films,"Apr 7, 2017",1 h 35 m,"['Action', 'Crime', 'Thriller']",1,2,34,Generally Unfavorable,5,25,6,30,9,45,Generally Favorable,6.2,3,27,7,64,1,9
+Keeping Up with the Joneses,Twentieth Century Fox Film Corporation,"Oct 21, 2016",1 h 45 m,"['Action', 'Comedy']",0,3,34,Generally Unfavorable,2,6,16,52,13,42,Mixed or Average,5.7,30,32,51,54,13,14
+A Long Way Down,Magnolia Pictures,"Jul 11, 2014",1 h 36 m,"['Comedy', 'Drama']",0,0,34,Generally Unfavorable,2,10,10,48,9,43,Generally Favorable,6.3,17,55,10,32,4,13
+The Messengers,Columbia Pictures,"Feb 2, 2007",1 h 30 m,"['Drama', 'Horror', 'Mystery']",1,3,34,Generally Unfavorable,0,0,8,50,8,50,Mixed or Average,5.7,16,42,12,32,10,26
+A Fall from Grace,Netflix,"Jan 17, 2020",2 h,"['Crime', 'Drama', 'Mystery', 'Thriller']",2,2,34,Generally Unfavorable,0,0,3,43,4,57,Mixed or Average,4.9,6,38,4,25,6,38
+Twice Born,Entertainment One,"Dec 6, 2013",2 h 7 m,"['Drama', 'Romance', 'War']",0,5,34,Generally Unfavorable,2,15,5,38,6,46,Generally Favorable,7.4,9,82,0,0,2,18
+The Forest,Focus Features,"Jan 8, 2016",1 h 33 m,"['Horror', 'Mystery', 'Thriller']",1,2,34,Generally Unfavorable,2,7,17,57,11,37,Mixed or Average,4.7,34,25,56,41,47,34
+Bitter Harvest,Roadside Attractions,"Feb 24, 2017",1 h 43 m,"['Drama', 'History', 'Romance', 'War']",0,5,34,Generally Unfavorable,0,0,12,71,5,29,Generally Favorable,6.8,11,65,2,12,4,24
+Ghosts of Girlfriends Past,New Line Cinema,"May 1, 2009",1 h 40 m,"['Comedy', 'Fantasy', 'Romance']",1,1,34,Generally Unfavorable,7,24,11,38,11,38,Mixed or Average,5.1,11,28,18,46,10,26
+Copperhead,Brainstorm Media,"Jun 28, 2013",2 h,['Drama'],0,3,34,Generally Unfavorable,2,17,6,50,4,33,Mixed or Average,5.6,3,43,2,29,2,29
+Miss Congeniality 2: Armed & Fabulous,Warner Bros. Pictures,"Mar 24, 2005",1 h 55 m,"['Action', 'Comedy', 'Crime']",2,6,34,Generally Unfavorable,4,12,15,45,14,42,Mixed or Average,4.8,15,29,18,35,18,35
+On the Line,Miramax Films,"Oct 26, 2001",1 h 25 m,"['Comedy', 'Family', 'Romance']",0,4,34,Generally Unfavorable,1,4,14,61,8,35,Mixed or Average,5.5,4,40,3,30,3,30
+Tamara,Lions Gate Films,"Feb 3, 2006",1 h 38 m,"['Drama', 'Fantasy', 'Horror', 'Thriller']",0,1,34,Generally Unfavorable,1,10,6,60,3,30,Mixed or Average,6.0,12,46,6,23,8,31
+My Life in Ruins,Fox Searchlight Pictures,"Jun 5, 2009",1 h 35 m,"['Comedy', 'Romance']",0,1,34,Generally Unfavorable,2,8,13,52,10,40,Generally Favorable,7.8,9,64,4,29,1,7
+The Happening,Twentieth Century Fox Film Corporation,"Jun 13, 2008",1 h 31 m,"['Adventure', 'Drama', 'Sci-Fi', 'Thriller']",1,8,34,Generally Unfavorable,3,8,17,45,18,47,Mixed or Average,4.0,46,18,86,34,124,48
+Aloft,Sony Pictures Classics,"May 22, 2015",1 h 52 m,['Drama'],1,3,34,Generally Unfavorable,1,5,10,50,9,45,Mixed or Average,4.4,4,31,3,23,6,46
+The Dark Tower,Universal Pictures,"Aug 4, 2017",1 h 35 m,"['Action', 'Adventure', 'Drama', 'Fantasy', 'Sci-Fi', 'Western']",0,4,34,Generally Unfavorable,4,9,22,48,20,43,Mixed or Average,4.5,112,27,141,34,156,38
+The Last Witch Hunter,Summit Entertainment,"Oct 23, 2015",1 h 46 m,"['Action', 'Adventure', 'Fantasy']",0,1,34,Generally Unfavorable,3,14,7,32,12,55,Mixed or Average,5.6,90,39,93,41,46,20
+Sleepless,Open Road Films (II),"Jan 13, 2017",1 h 35 m,"['Action', 'Crime', 'Thriller']",0,1,34,Generally Unfavorable,1,7,9,60,5,33,Mixed or Average,4.6,9,18,25,51,15,31
+The War with Grandpa,Diamond Films,"Oct 9, 2020",1 h 34 m,"['Comedy', 'Drama', 'Family']",1,1,34,Generally Unfavorable,0,0,12,52,11,48,Mixed or Average,5.1,17,31,21,39,16,30
+"Berlin, I Love You",Saban Films,"Feb 8, 2019",2 h,"['Drama', 'Romance']",0,0,34,Generally Unfavorable,0,0,6,67,3,33,Overwhelming Dislike,1.6,0,0,1,20,4,80
+Dead or Alive: Final,Kino International,"Nov 29, 2002",1 h 29 m,"['Action', 'Crime', 'Drama', 'Sci-Fi', 'Thriller']",0,0,34,Generally Unfavorable,0,0,4,57,3,43,Mixed or Average,5.2,3,33,3,33,3,33
+15 Minutes,New Line Cinema,"Mar 9, 2001",2 h,"['Action', 'Crime', 'Drama', 'Thriller']",0,1,34,Generally Unfavorable,8,25,9,28,15,47,Generally Favorable,6.1,12,31,24,62,3,8
+The Haunted Mansion,Buena Vista Pictures,"Nov 26, 2003",1 h 28 m,"['Comedy', 'Family', 'Fantasy', 'Horror', 'Mystery']",1,4,34,Generally Unfavorable,4,12,15,44,15,44,Mixed or Average,5.9,17,35,24,50,7,15
+Get Hard,Warner Bros.,"Mar 27, 2015",1 h 40 m,"['Comedy', 'Crime', 'Drama']",0,2,34,Generally Unfavorable,3,7,21,49,19,44,Mixed or Average,5.1,64,32,79,40,57,28
+Law Abiding Citizen,Overture Films,"Oct 16, 2009",1 h 48 m,"['Action', 'Crime', 'Drama', 'Thriller']",2,6,34,Generally Unfavorable,3,12,11,42,12,46,Generally Favorable,6.8,161,64,59,23,32,13
+Ghosted,Apple TV+,"Apr 21, 2023",1 h 56 m,"['Action', 'Adventure', 'Comedy', 'Romance']",1,5,34,Generally Unfavorable,5,17,10,34,14,48,Mixed or Average,4.7,26,28,31,33,37,39
+Friday the 13th,New Line Cinema,"Feb 13, 2009",1 h 37 m,"['Horror', 'Mystery', 'Thriller']",2,4,34,Generally Unfavorable,1,3,15,52,13,45,Mixed or Average,5.9,109,40,121,44,43,16
+The Late Bloomer,Momentum Pictures,"Oct 7, 2016",1 h 30 m,"['Comedy', 'Drama', 'Romance']",2,2,34,Generally Unfavorable,0,0,4,57,3,43,Generally Unfavorable,3.7,0,0,4,67,2,33
+Beyond the Reach,Roadside Attractions,"Apr 17, 2015",1 h 31 m,"['Action', 'Adventure', 'Thriller']",0,0,34,Generally Unfavorable,1,5,10,53,8,42,Mixed or Average,4.8,6,22,14,52,7,26
+Vanguard,Gravitas Ventures,"Nov 20, 2020",1 h 47 m,"['Action', 'Adventure', 'Comedy', 'Crime', 'Thriller']",1,3,34,Generally Unfavorable,0,0,12,80,3,20,Generally Favorable,7.5,11,73,3,20,1,7
+Ghost Rider: Spirit of Vengeance,Columbia Pictures,"Feb 17, 2012",1 h 35 m,"['Action', 'Fantasy', 'Thriller']",0,4,34,Generally Unfavorable,2,9,13,59,7,32,Mixed or Average,4.0,78,20,115,29,198,51
+Thunder Force,Netflix,"Apr 9, 2021",1 h 45 m,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Sci-Fi']",0,4,34,Generally Unfavorable,0,0,20,59,14,41,Generally Unfavorable,3.1,22,19,18,16,76,66
+Year One,Columbia Pictures,"Jun 19, 2009",1 h 37 m,['Comedy'],0,1,34,Generally Unfavorable,6,21,8,29,14,50,Mixed or Average,5.0,37,30,46,37,41,33
+Motherhood,National Entertainment Media,"Oct 23, 2009",1 h 30 m,"['Comedy', 'Drama']",1,1,34,Generally Unfavorable,3,20,5,33,7,47,Generally Unfavorable,2.8,1,20,1,20,3,60
+Fireflies in the Garden,FSI,"Oct 14, 2011",2 h,['Drama'],0,1,34,Generally Unfavorable,1,7,8,57,5,36,Generally Favorable,7.3,10,71,4,29,0,0
+The Longest Week,Gravitas Ventures,"Sep 5, 2014",1 h 26 m,"['Comedy', 'Drama', 'Romance']",0,1,34,Generally Unfavorable,2,22,3,33,4,44,Mixed or Average,5.0,1,13,5,63,2,25
+Red One,Amazon Studios,"Nov 15, 2024",1 h 42 m,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Mystery']",0,4,34,Generally Unfavorable,2,6,18,51,15,43,Mixed or Average,5.7,122,50,65,27,55,23
+Scooby Doo 2: Monsters Unleashed,Warner Home Video,"Mar 26, 2004",1 h 33 m,"['Adventure', 'Comedy', 'Family', 'Fantasy', 'Horror', 'Mystery', 'Sci-Fi']",2,5,34,Generally Unfavorable,2,7,14,50,12,43,Mixed or Average,5.6,51,35,59,41,34,24
+The Ledge,IFC Films,"Jul 8, 2011",1 h 41 m,"['Drama', 'Romance', 'Thriller']",0,1,34,Generally Unfavorable,1,7,8,57,5,36,Mixed or Average,5.7,17,47,8,22,11,31
+Doom,Universal Pictures,"Oct 21, 2005",1 h 40 m,"['Action', 'Horror', 'Sci-Fi']",0,3,34,Generally Unfavorable,1,4,13,46,14,50,Mixed or Average,4.9,72,32,84,37,69,31
+The Smurfs 2,Columbia Pictures,"Jul 31, 2013",1 h 45 m,"['Animation', 'Adventure', 'Comedy', 'Family', 'Fantasy']",0,6,34,Generally Unfavorable,1,3,16,53,13,43,Generally Unfavorable,3.9,40,22,50,27,96,52
+Alice Through the Looking Glass,Walt Disney Studios Motion Pictures,"May 27, 2016",1 h 53 m,"['Adventure', 'Family', 'Fantasy', 'Mystery']",0,11,34,Generally Unfavorable,3,7,19,45,20,48,Mixed or Average,5.9,165,44,129,35,79,21
+The Man from Toronto,Netflix,"Jun 24, 2022",1 h 50 m,"['Action', 'Adventure', 'Comedy', 'Thriller']",1,2,34,Generally Unfavorable,1,5,12,60,7,35,Mixed or Average,5.0,13,25,28,53,12,23
+Premature,IFC Midnight,"Jul 2, 2014",1 h 33 m,"['Comedy', 'Drama', 'Fantasy']",0,2,34,Generally Unfavorable,1,11,2,22,6,67,Generally Favorable,7.0,9,69,4,31,0,0
+Thr3e,Twentieth Century Fox Film Corporation,"Jan 5, 2007",1 h 41 m,"['Horror', 'Mystery', 'Thriller']",0,0,34,Generally Unfavorable,1,8,6,46,6,46,Mixed or Average,5.9,2,25,5,63,1,13
+The Fourth Kind,Universal Pictures,"Nov 6, 2009",1 h 38 m,"['Horror', 'Mystery', 'Sci-Fi', 'Thriller']",0,1,34,Generally Unfavorable,2,7,16,59,9,33,Mixed or Average,5.5,24,33,33,45,16,22
+Imaginary,Lionsgate,"Mar 8, 2024",1 h 44 m,"['Horror', 'Mystery', 'Thriller']",0,0,34,Generally Unfavorable,1,5,9,43,11,52,Mixed or Average,5.0,21,33,23,36,20,31
+Mother's Day,Anchor Bay Films,"May 4, 2012",1 h 52 m,"['Drama', 'Horror', 'Thriller']",0,0,34,Generally Unfavorable,0,0,5,56,4,44,Generally Favorable,6.2,11,44,11,44,3,12
+Stolen,IFC Films,"Mar 12, 2010",1 h 37 m,"['Crime', 'Drama', 'Mystery']",0,0,34,Generally Unfavorable,0,0,9,75,3,25,Generally Favorable,8.0,7,70,3,30,0,0
+Baggage Claim,Fox Searchlight Pictures,"Sep 27, 2013",1 h 36 m,"['Comedy', 'Romance']",0,1,34,Generally Unfavorable,1,4,17,63,9,33,Mixed or Average,4.3,8,38,3,14,10,48
+Testosterone,Strand Releasing,"Sep 10, 2004",1 h 45 m,"['Comedy', 'Drama', 'Romance']",0,0,34,Generally Unfavorable,0,0,14,74,5,26,Generally Favorable,7.2,4,80,0,0,1,20
+Cheaper by the Dozen 2,Twentieth Century Fox Film Corporation,"Dec 21, 2005",1 h 34 m,"['Adventure', 'Comedy', 'Family']",1,4,34,Generally Unfavorable,2,8,11,46,11,46,Mixed or Average,5.8,21,39,21,39,12,22
+The Possession of Michael King,Anchor Bay Films,"Aug 22, 2014",1 h 23 m,['Horror'],0,2,34,Generally Unfavorable,1,10,4,40,5,50,Mixed or Average,4.3,5,24,9,43,7,33
+Texas Chainsaw Massacre,Netflix,"Feb 18, 2022",1 h 21 m,"['Crime', 'Horror', 'Thriller']",0,0,34,Generally Unfavorable,3,11,12,43,13,46,Mixed or Average,4.0,35,21,56,34,76,46
+Bringing Up Bobby,Monterey Media,"Sep 28, 2012",1 h 33 m,['Comedy'],0,0,34,Generally Unfavorable,1,13,4,50,3,38,Mixed or Average,5.2,5,56,0,0,4,44
+Ninja Assassin,Warner Bros. Pictures,"Nov 25, 2009",1 h 39 m,"['Action', 'Thriller']",0,0,34,Generally Unfavorable,3,15,8,40,9,45,Generally Favorable,6.3,52,51,30,30,19,19
+Addicted to Fresno,Gravitas Ventures,"Oct 2, 2015",1 h 25 m,"['Comedy', 'Crime', 'Drama']",0,1,34,Generally Unfavorable,1,9,4,36,6,55,Mixed or Average,4.2,1,20,2,40,2,40
+My All American,Clarius Entertainment,"Nov 13, 2015",1 h 58 m,"['Biography', 'Drama', 'Sport']",1,1,34,Generally Unfavorable,1,6,7,44,8,50,Generally Favorable,6.4,10,67,2,13,3,20
+Yakuza Princess,Magnet Releasing,"Sep 3, 2021",1 h 52 m,"['Action', 'Crime', 'Thriller']",0,0,34,Generally Unfavorable,1,9,5,45,5,45,Mixed or Average,4.1,1,13,3,38,4,50
+Devil's Due,Twentieth Century Fox Film Corporation,"Jan 17, 2014",1 h 29 m,"['Horror', 'Mystery']",0,3,34,Generally Unfavorable,2,11,7,39,9,50,Generally Unfavorable,2.9,12,16,9,12,56,73
+Siberia,Saban Films,"Jul 13, 2018",1 h 44 m,"['Crime', 'Drama', 'Romance', 'Thriller']",0,3,34,Generally Unfavorable,1,7,6,40,8,53,Generally Unfavorable,3.2,4,10,14,34,23,56
+Irreplaceable You,Netflix,"Feb 16, 2018",1 h 36 m,"['Comedy', 'Drama', 'Romance']",0,0,34,Generally Unfavorable,0,0,4,57,3,43,Mixed or Average,5.1,3,38,3,38,2,25
+Secret Society of Second Born Royals,Disney+,"Sep 25, 2020",1 h 36 m,"['Action', 'Adventure', 'Comedy', 'Family', 'Fantasy']",0,4,34,Generally Unfavorable,2,29,1,14,4,57,Generally Unfavorable,3.4,2,22,0,0,7,78
+Basic,Sony Pictures Entertainment (SPE),"Mar 28, 2003",1 h 38 m,"['Crime', 'Drama', 'Mystery', 'Thriller']",0,3,34,Generally Unfavorable,4,12,14,42,15,45,Generally Favorable,7.2,30,63,13,27,5,10
+Kings,"Orchard, The","Apr 27, 2018",1 h 32 m,"['Crime', 'Drama', 'Romance', 'Thriller']",0,0,34,Generally Unfavorable,1,6,11,61,6,33,Generally Unfavorable,3.4,1,14,2,29,4,57
+ATM,IFC Midnight,"Apr 6, 2012",1 h 30 m,"['Horror', 'Mystery', 'Thriller']",0,0,34,Generally Unfavorable,0,0,7,70,3,30,Mixed or Average,5.2,16,36,14,31,15,33
+Uglies,Netflix,"Sep 13, 2024",1 h 40 m,"['Action', 'Adventure', 'Drama', 'Fantasy', 'Sci-Fi']",1,1,34,Generally Unfavorable,0,0,7,47,8,53,Mixed or Average,4.1,19,32,9,15,32,53
+Even Money,Yari Film Group Releasing,"May 18, 2007",1 h 53 m,"['Crime', 'Drama']",0,1,34,Generally Unfavorable,1,10,5,50,4,40,Mixed or Average,5.6,2,40,1,20,2,40
+Dead Silence,Universal Pictures,"Mar 16, 2007",1 h 29 m,"['Horror', 'Mystery', 'Thriller']",0,0,34,Generally Unfavorable,1,7,6,40,8,53,Generally Favorable,6.1,53,47,41,36,19,17
+Hellions,IFC Midnight,"Sep 18, 2015",1 h 20 m,"['Drama', 'Horror', 'Thriller']",1,2,34,Generally Unfavorable,1,13,3,38,4,50,Mixed or Average,4.4,2,20,4,40,4,40
+Big Momma's House 2,Twentieth Century Fox Film Corporation,"Jan 27, 2006",1 h 39 m,"['Comedy', 'Crime']",1,4,34,Generally Unfavorable,1,5,9,45,10,50,Mixed or Average,5.3,18,31,22,38,18,31
+"10,000 BC",Warner Bros. Pictures,"Mar 7, 2008",1 h 49 m,"['Action', 'Adventure', 'Drama', 'Fantasy', 'History']",0,0,34,Generally Unfavorable,4,14,8,28,17,59,Mixed or Average,4.3,32,18,78,45,63,36
+Knife Fight,IFC Films,"Jan 25, 2013",1 h 40 m,['Drama'],0,0,34,Generally Unfavorable,2,15,4,31,7,54,Mixed or Average,5.7,3,50,2,33,1,17
+Zoolander 2,Paramount Pictures,"Feb 12, 2016",1 h 42 m,"['Action', 'Adventure', 'Comedy', 'Mystery', 'Romance']",4,12,34,Generally Unfavorable,6,14,15,36,21,50,Mixed or Average,4.2,60,26,62,27,109,47
+Valentine's Day,New Line Cinema,"Feb 12, 2010",2 h 5 m,"['Comedy', 'Romance']",6,14,34,Generally Unfavorable,4,12,14,42,15,45,Mixed or Average,5.2,24,29,37,45,22,27
+All About the Benjamins,New Line Cinema,"Mar 8, 2002",1 h 35 m,"['Action', 'Comedy', 'Crime', 'Thriller']",0,0,34,Generally Unfavorable,4,15,10,38,12,46,Generally Favorable,6.8,5,56,3,33,1,11
+Snow Day,Paramount Pictures,"Feb 11, 2000",1 h 29 m,"['Adventure', 'Comedy', 'Family']",0,4,34,Generally Unfavorable,4,18,6,27,12,55,Generally Favorable,6.3,12,57,6,29,3,14
+21 and Over,Relativity Media,"Mar 1, 2013",1 h 33 m,['Comedy'],1,2,34,Generally Unfavorable,3,14,8,38,10,48,Mixed or Average,5.4,40,34,50,42,29,24
+Safe Haven,Relativity Media,"Feb 14, 2013",1 h 55 m,"['Drama', 'Romance', 'Thriller']",3,8,34,Generally Unfavorable,1,3,19,58,13,39,Mixed or Average,5.8,42,45,29,31,23,24
+Ice Age: Collision Course,Twentieth Century Fox Film Corporation,"Jul 22, 2016",1 h 34 m,"['Animation', 'Adventure', 'Comedy', 'Family', 'Sci-Fi']",2,2,34,Generally Unfavorable,1,4,15,56,11,41,Mixed or Average,4.4,63,25,90,35,104,40
+Point Break,Warner Bros. Pictures,"Dec 25, 2015",1 h 54 m,"['Action', 'Adventure', 'Crime', 'Sport', 'Thriller']",2,6,34,Generally Unfavorable,2,10,7,33,12,57,Mixed or Average,4.0,33,22,50,34,65,44
+Undead,Lions Gate Films,"Jul 1, 2005",1 h 37 m,"['Action', 'Comedy', 'Fantasy', 'Horror', 'Sci-Fi']",3,3,34,Generally Unfavorable,2,10,9,45,9,45,Mixed or Average,5.8,4,44,2,22,3,33
+Kill Me Later,Lions Gate Films,"Sep 14, 2001",1 h 29 m,"['Crime', 'Drama', 'Romance', 'Thriller']",0,0,34,Generally Unfavorable,1,13,4,50,3,38,Generally Favorable,6.1,4,44,4,44,1,11
+Town & Country,New Line Cinema,"Apr 27, 2001",1 h 44 m,"['Comedy', 'Romance']",1,6,34,Generally Unfavorable,3,12,11,42,12,46,Mixed or Average,5.7,2,33,3,50,1,17
+Eulogy,Lions Gate Films,"Oct 15, 2004",1 h 31 m,"['Comedy', 'Drama']",0,0,34,Generally Unfavorable,0,0,6,50,6,50,Mixed or Average,5.3,0,0,6,86,1,14
+Ultrasuede: In Search of Halston,Paladin Films,"Jan 20, 2012",1 h 29 m,['Documentary'],0,0,34,Generally Unfavorable,1,9,7,64,3,27,Mixed or Average,4.2,1,20,2,40,2,40
+Erased,RADiUS-TWC,"May 17, 2013",1 h 40 m,"['Action', 'Thriller']",1,3,34,Generally Unfavorable,1,6,9,53,7,41,Mixed or Average,5.7,11,42,11,42,4,15
+Elektra,Twentieth Century Fox Film Corporation,"Jan 14, 2005",1 h 37 m,"['Action', 'Adventure', 'Crime', 'Fantasy']",0,2,34,Generally Unfavorable,1,3,18,51,16,46,Mixed or Average,4.2,33,20,57,34,76,46
+American Son,Netflix,"Nov 1, 2019",1 h 30 m,['Drama'],0,5,34,Generally Unfavorable,0,0,4,57,3,43,Generally Favorable,6.3,13,62,3,14,5,24
+Scenic Route,Anderson Digital,"Aug 23, 2013",1 h 26 m,"['Drama', 'Horror', 'Thriller']",0,1,34,Generally Unfavorable,1,10,5,50,4,40,Generally Favorable,7.0,16,67,6,25,2,8
+The Mummy,Universal Pictures,"Jun 9, 2017",1 h 50 m,"['Action', 'Adventure', 'Fantasy', 'Horror', 'Thriller']",2,17,34,Generally Unfavorable,5,11,21,48,18,41,Mixed or Average,4.7,145,26,223,40,190,34
+Dead & Breakfast,Anchor Bay Entertainment,"Apr 20, 2005",1 h 28 m,"['Comedy', 'Fantasy', 'Horror', 'Musical']",4,4,34,Generally Unfavorable,2,29,1,14,4,57,Generally Favorable,7.3,3,43,4,57,0,0
+Vacation,Warner Bros. Pictures,"Jul 29, 2015",1 h 39 m,"['Adventure', 'Comedy']",1,3,34,Generally Unfavorable,5,15,14,42,14,42,Mixed or Average,5.8,103,48,59,27,53,25
+Love Hurts,Universal Pictures,"Feb 7, 2025",1 h 23 m,"['Action', 'Comedy', 'Romance']",0,0,34,Generally Unfavorable,4,9,18,42,21,49,Generally Unfavorable,3.9,11,20,18,33,25,46
+Fatal Affair,Netflix,"Jul 16, 2020",1 h 29 m,"['Crime', 'Horror', 'Mystery', 'Thriller']",1,1,34,Generally Unfavorable,0,0,6,60,4,40,Generally Unfavorable,2.6,0,0,3,25,9,75
+The Lifeguard,Screen Media Films,"Aug 30, 2013",1 h 38 m,"['Drama', 'Romance']",0,2,34,Generally Unfavorable,1,7,5,36,8,57,Generally Favorable,6.4,12,52,8,35,3,13
+The Bubble,Netflix,"Apr 1, 2022",2 h 4 m,['Comedy'],0,3,34,Generally Unfavorable,3,9,19,56,12,35,Generally Unfavorable,3.6,7,16,14,33,22,51
+My Best Friend's Girl,Lionsgate,"Sep 19, 2008",1 h 41 m,"['Comedy', 'Romance']",0,1,34,Generally Unfavorable,1,8,3,23,9,69,Mixed or Average,5.0,6,25,11,46,7,29
+Jonah Hex,Warner Bros. Pictures,"Jun 18, 2010",1 h 21 m,"['Action', 'Drama', 'Fantasy', 'Thriller', 'Western']",1,4,33,Generally Unfavorable,2,6,14,44,16,50,Mixed or Average,4.0,29,20,39,27,79,54
+Raise Your Voice,New Line Cinema,"Oct 8, 2004",1 h 43 m,"['Family', 'Music', 'Musical', 'Romance']",2,3,33,Generally Unfavorable,3,13,10,42,11,46,Mixed or Average,5.9,15,44,12,35,7,21
+Collateral Damage,Warner Bros. Pictures,"Feb 8, 2002",1 h 48 m,"['Action', 'Drama', 'Thriller']",0,0,33,Generally Unfavorable,7,21,11,32,16,47,Mixed or Average,5.0,10,21,26,55,11,23
+Lara Croft: Tomb Raider,Paramount Pictures,"Jun 15, 2001",1 h 40 m,"['Action', 'Adventure', 'Fantasy', 'Thriller']",0,12,33,Generally Unfavorable,4,13,14,45,13,42,Mixed or Average,5.9,106,41,104,40,49,19
+Equilibrium,Miramax Films,"Dec 6, 2002",1 h 47 m,"['Action', 'Drama', 'Sci-Fi', 'Thriller']",0,2,33,Generally Unfavorable,4,18,8,36,10,45,Generally Favorable,7.5,242,77,47,15,25,8
+Shadowboxer,Freestyle Releasing,"Jul 21, 2006",1 h 33 m,"['Action', 'Crime', 'Drama', 'Thriller']",1,3,33,Generally Unfavorable,2,13,5,33,8,53,Mixed or Average,4.1,2,29,0,0,5,71
+Alvin and the Chipmunks: The Road Chip,Twentieth Century Fox Film Corporation,"Dec 18, 2015",1 h 32 m,"['Adventure', 'Comedy', 'Family', 'Fantasy', 'Music', 'Musical']",1,5,33,Generally Unfavorable,1,5,10,48,10,48,Mixed or Average,4.0,39,30,23,18,68,52
+Kidnapping Mr. Heineken,Alchemy,"Mar 6, 2015",1 h 35 m,"['Action', 'Crime', 'Drama', 'Thriller']",0,1,33,Generally Unfavorable,1,5,12,63,6,32,Mixed or Average,5.5,10,38,11,42,5,19
+The Chaperone,Samuel Goldwyn Films,"Feb 18, 2011",1 h 43 m,"['Action', 'Comedy', 'Family']",0,1,33,Generally Unfavorable,1,9,6,55,4,36,Generally Favorable,6.5,5,63,0,0,3,38
+Grandma's Boy,Twentieth Century Fox Film Corporation,"Jan 6, 2006",1 h 34 m,['Comedy'],0,1,33,Generally Unfavorable,1,7,7,47,7,47,Generally Favorable,7.0,47,61,23,30,7,9
+Looking Glass,Momentum Pictures,"Feb 16, 2018",1 h 43 m,"['Mystery', 'Thriller']",0,0,33,Generally Unfavorable,2,17,2,17,8,67,Mixed or Average,5.0,1,8,8,67,3,25
+The Grudge 2,Columbia Pictures,"Oct 13, 2006",1 h 42 m,"['Horror', 'Thriller']",0,3,33,Generally Unfavorable,0,0,11,69,5,31,Mixed or Average,6.0,22,35,33,53,7,11
+Chasing Papi,Twentieth Century Fox Film Corporation,"Apr 16, 2003",1 h 20 m,"['Comedy', 'Romance']",0,1,33,Generally Unfavorable,4,17,8,35,11,48,Generally Unfavorable,3.5,0,0,2,50,2,50
+The Christmas Candle,,"Nov 22, 2013",1 h 40 m,"['Drama', 'Family']",0,2,33,Generally Unfavorable,1,8,6,46,6,46,Mixed or Average,6.0,3,60,1,20,1,20
+The Divergent Series: Allegiant,Summit Entertainment,"Mar 18, 2016",2 h,"['Action', 'Adventure', 'Fantasy', 'Horror', 'Mystery', 'Sci-Fi', 'Thriller']",2,11,33,Generally Unfavorable,0,0,20,61,13,39,Mixed or Average,4.3,78,25,89,29,142,46
+Despite the Falling Snow,CARU Pictures,"Mar 31, 2017",1 h 33 m,"['Drama', 'Mystery', 'Romance', 'Thriller']",8,9,33,Generally Unfavorable,0,0,6,75,2,25,Mixed or Average,6.0,2,33,3,50,1,17
+The Stepfather,Screen Gems,"Oct 16, 2009",1 h 41 m,"['Mystery', 'Thriller']",0,2,33,Generally Unfavorable,1,9,7,64,3,27,Mixed or Average,5.4,15,34,19,43,10,23
+American Renegades,Asmik Ace Entertainment,"Dec 21, 2018",1 h 46 m,"['Action', 'Adventure', 'Crime', 'Drama', 'Thriller', 'War']",0,0,33,Generally Unfavorable,0,0,6,75,2,25,Mixed or Average,4.4,2,17,6,50,4,33
+Blood and Chocolate,Metro-Goldwyn-Mayer (MGM),"Jan 26, 2007",1 h 38 m,"['Drama', 'Fantasy', 'Horror', 'Romance']",0,0,33,Generally Unfavorable,1,6,7,44,8,50,Mixed or Average,4.9,3,30,4,40,3,30
+The Only Living Boy in New York,Roadside Attractions,"Aug 11, 2017",1 h 29 m,['Drama'],1,1,33,Generally Unfavorable,3,13,7,30,13,57,Mixed or Average,5.1,8,33,8,33,8,33
+Bedtime Stories,Walt Disney Studios Motion Pictures,"Dec 25, 2008",1 h 39 m,"['Adventure', 'Comedy', 'Family', 'Fantasy', 'Romance', 'Sci-Fi']",2,4,33,Generally Unfavorable,6,23,11,42,9,35,Mixed or Average,5.6,43,40,43,40,21,20
+House of D,Lions Gate Films,"Apr 15, 2005",1 h 37 m,"['Comedy', 'Drama']",0,0,33,Generally Unfavorable,2,6,15,48,14,45,Generally Favorable,7.1,4,50,3,38,1,13
+Virginia,Entertainment One,"May 18, 2012",1 h 56 m,['Drama'],0,0,33,Generally Unfavorable,0,0,9,64,5,36,Generally Favorable,6.5,3,75,0,0,1,25
+Welcome to Mooseport,Twentieth Century Fox Film Corporation,"Feb 20, 2004",1 h 50 m,"['Comedy', 'Romance']",0,0,33,Generally Unfavorable,4,11,16,44,16,44,Mixed or Average,4.7,3,25,4,33,5,42
+Five Nights at Freddy's,Universal Pictures,"Oct 27, 2023",1 h 49 m,"['Horror', 'Mystery', 'Thriller']",0,20,33,Generally Unfavorable,3,8,20,53,15,39,Generally Favorable,7.8,1.4k,76,213,11,234,12
+Programming the Nation?,International Film Circuit,"Aug 19, 2011",1 h 45 m,['Documentary'],0,0,33,Generally Unfavorable,1,10,4,40,5,50,Generally Favorable,6.3,3,75,0,0,1,25
+War of the Worlds: Goliath,Anderson Digital,"Mar 7, 2014",1 h 25 m,"['Animation', 'Action', 'Adventure', 'Sci-Fi']",0,0,33,Generally Unfavorable,0,0,4,57,3,43,Mixed or Average,5.1,6,40,2,13,7,47
+Outcast,Entertainment One,"Feb 6, 2015",1 h 39 m,"['Action', 'Adventure', 'Thriller']",0,0,33,Generally Unfavorable,0,0,4,57,3,43,Mixed or Average,4.0,8,27,5,17,17,57
+Free the Nipple,Sundance Selects,"Dec 12, 2014",1 h 24 m,"['Comedy', 'Drama']",0,0,33,Generally Unfavorable,0,0,4,50,4,50,Mixed or Average,4.0,3,30,2,20,5,50
+The Hero of Color City,Magnolia Pictures,"Oct 3, 2014",1 h 17 m,"['Animation', 'Adventure', 'Family', 'Fantasy']",0,0,33,Generally Unfavorable,0,0,6,50,6,50,Generally Unfavorable,3.2,2,20,1,10,7,70
+Gulliver's Travels,Twentieth Century Fox Film Corporation,"Dec 25, 2010",1 h 25 m,"['Adventure', 'Comedy', 'Family', 'Fantasy']",0,3,33,Generally Unfavorable,6,19,12,38,14,44,Mixed or Average,4.6,30,25,52,43,40,33
+Awake,Metro-Goldwyn-Mayer (MGM),"Nov 30, 2007",1 h 24 m,"['Crime', 'Drama', 'Mystery', 'Thriller']",1,4,33,Generally Unfavorable,1,6,8,47,8,47,Mixed or Average,5.5,25,44,19,33,13,23
+Collide,Open Road Films,"Feb 24, 2017",1 h 39 m,"['Action', 'Adventure', 'Crime', 'Mystery', 'Thriller']",1,2,33,Generally Unfavorable,1,10,4,40,5,50,Mixed or Average,5.7,14,35,17,43,9,23
+Sucker Punch,Warner Bros. Pictures,"Mar 25, 2011",2 h,"['Action', 'Adventure', 'Fantasy', 'Thriller']",0,8,33,Generally Unfavorable,4,14,10,34,15,52,Generally Favorable,6.3,544,56,201,21,227,23
+The Wrong Missy,Netflix,"May 13, 2020",1 h 30 m,"['Comedy', 'Romance']",0,5,33,Generally Unfavorable,0,0,6,50,6,50,Mixed or Average,4.6,20,31,17,26,28,43
+The Baytown Outlaws,Phase 4 Films,"Jan 11, 2013",1 h 38 m,"['Action', 'Comedy', 'Crime', 'Thriller']",0,1,33,Generally Unfavorable,0,0,6,55,5,45,Generally Favorable,6.9,17,71,3,13,4,17
+There Be Dragons,Samuel Goldwyn Films,"May 6, 2011",2 h,"['Biography', 'Drama', 'War']",0,2,33,Generally Unfavorable,1,5,10,53,8,42,Universal Acclaim,8.1,16,84,1,5,2,11
+Love Happens,Universal Pictures,"Sep 18, 2009",1 h 49 m,"['Drama', 'Romance']",1,1,33,Generally Unfavorable,1,4,15,58,10,38,Mixed or Average,5.6,5,29,9,53,3,18
+Colonia,Screen Media Films,"Apr 15, 2016",1 h 50 m,"['Biography', 'Drama', 'History', 'Romance', 'Thriller']",0,12,33,Generally Unfavorable,1,7,8,53,6,40,Generally Favorable,7.1,45,67,18,27,4,6
+Catch That Kid,Fox 2000 Pictures,"Feb 6, 2004",1 h 31 m,"['Adventure', 'Comedy', 'Crime', 'Family']",0,1,33,Generally Unfavorable,3,11,11,41,13,48,Mixed or Average,5.2,6,33,8,44,4,22
+The Space Between Us,STX Entertainment,"Feb 3, 2017",2 h,"['Drama', 'Romance', 'Sci-Fi']",0,4,33,Generally Unfavorable,1,3,15,47,16,50,Mixed or Average,5.2,33,37,29,32,28,31
+RV,Columbia Pictures,"Apr 28, 2006",1 h 39 m,"['Adventure', 'Comedy', 'Family']",1,3,33,Generally Unfavorable,4,14,10,36,14,50,Mixed or Average,5.1,17,27,28,44,18,29
+Skinwalkers,After Dark Films,"Aug 10, 2007",1 h 50 m,"['Action', 'Fantasy', 'Horror', 'Thriller']",0,0,33,Generally Unfavorable,1,9,5,45,5,45,Mixed or Average,5.1,3,23,6,46,4,31
+Amnesiac,XLrator Media,"Aug 14, 2015",1 h 30 m,"['Drama', 'Horror', 'Mystery', 'Thriller']",0,0,33,Generally Unfavorable,1,13,2,25,5,63,Mixed or Average,4.3,0,0,4,100,0,0
+The Last Song,Walt Disney Studios Motion Pictures,"Mar 31, 2010",1 h 47 m,"['Drama', 'Music', 'Romance']",3,10,33,Generally Unfavorable,3,11,14,52,10,37,Mixed or Average,5.6,60,50,14,12,46,38
+The Young Messiah,Focus Features,"Mar 11, 2016",1 h 51 m,"['Drama', 'Fantasy']",3,3,33,Generally Unfavorable,0,0,6,67,3,33,Mixed or Average,5.6,12,46,6,23,8,31
+Annie,Columbia Pictures,"Dec 19, 2014",1 h 58 m,"['Comedy', 'Drama', 'Family', 'Musical']",1,7,33,Generally Unfavorable,5,13,19,50,14,37,Mixed or Average,5.0,63,43,27,18,56,38
+Out of the Dark,Vertical Entertainment,"Feb 27, 2015",1 h 32 m,"['Horror', 'Mystery', 'Thriller']",0,0,33,Generally Unfavorable,0,0,5,56,4,44,Generally Unfavorable,3.7,0,0,7,78,2,22
+The Amityville Horror,Metro-Goldwyn-Mayer (MGM),"Apr 15, 2005",1 h 30 m,['Horror'],2,5,33,Generally Unfavorable,3,10,15,48,13,42,Mixed or Average,5.8,41,38,44,41,23,21
+Superhero Movie,Dimension Films,"Mar 28, 2008",1 h 15 m,"['Action', 'Comedy', 'Sci-Fi']",1,1,33,Generally Unfavorable,0,0,10,71,4,29,Generally Favorable,6.4,66,55,27,23,27,23
+P.S. Your Cat Is Dead!,TLA Releasing,"Jan 17, 2003",1 h 32 m,['Comedy'],0,0,33,Generally Unfavorable,0,0,7,64,4,36,Generally Unfavorable,3.4,2,17,4,33,6,50
+The Battle of Shaker Heights,Miramax Films,"Aug 22, 2003",1 h 19 m,"['Comedy', 'Drama', 'Romance']",0,0,33,Generally Unfavorable,1,5,13,59,8,36,Mixed or Average,5.6,4,44,2,22,3,33
+Original Sin,Metro-Goldwyn-Mayer Distributing Corporation (MGM),"Aug 3, 2001",1 h 56 m,"['Crime', 'Drama', 'Mystery', 'Romance', 'Thriller']",0,2,33,Generally Unfavorable,3,13,8,33,13,54,Generally Favorable,6.4,18,49,15,41,4,11
+Uptown Girls,Metro-Goldwyn-Mayer Distributing Corporation (MGM),"Aug 15, 2003",1 h 32 m,"['Comedy', 'Drama', 'Romance']",0,2,33,Generally Unfavorable,2,7,14,47,14,47,Mixed or Average,6.0,16,46,9,26,10,29
+Impostor,Dimension Films,"Jan 4, 2002",1 h 35 m,"['Drama', 'Mystery', 'Sci-Fi', 'Thriller']",0,1,33,Generally Unfavorable,5,19,8,31,13,50,Generally Favorable,7.6,12,80,3,20,0,0
+The Ritual,XYZ Films,"Jun 6, 2025",1 h 38 m,"['Drama', 'Horror', 'Thriller']",0,0,33,Generally Unfavorable,0,0,7,58,5,42,Mixed or Average,5.8,3,38,3,38,2,25
+Mindhunters,Dimension Films,"May 13, 2005",1 h 46 m,"['Crime', 'Horror', 'Thriller']",0,4,33,Generally Unfavorable,5,17,10,33,15,50,Generally Favorable,6.5,28,56,17,34,5,10
+Fifty Shades Darker,Universal Pictures,"Feb 10, 2017",1 h 58 m,"['Drama', 'Mystery', 'Romance', 'Thriller']",3,11,33,Generally Unfavorable,2,5,18,46,19,49,Generally Unfavorable,3.2,54,19,51,18,173,62
+Just Go with It,Columbia Pictures,"Feb 11, 2011",1 h 57 m,"['Comedy', 'Romance']",4,12,33,Generally Unfavorable,3,10,15,48,13,42,Generally Favorable,6.4,145,55,74,28,47,18
+Very Annie Mary,Empire Pictures Inc.,"Mar 22, 2002",1 h 44 m,"['Comedy', 'Musical']",3,3,33,Generally Unfavorable,1,10,5,50,4,40,Mixed or Average,4.4,3,33,2,22,4,44
+Hanging Up,Columbia Pictures,"Feb 18, 2000",1 h 34 m,"['Comedy', 'Drama']",2,3,33,Generally Unfavorable,6,20,11,37,13,43,Generally Favorable,6.3,6,40,8,53,1,7
+Trash Humpers,Drag City,"May 7, 2010",1 h 18 m,"['Comedy', 'Drama', 'Horror']",2,3,33,Generally Unfavorable,1,9,7,64,3,27,Generally Favorable,6.1,6,50,2,17,4,33
+Elite Squad,IFC Films,"Sep 19, 2008",1 h 55 m,"['Action', 'Crime', 'Drama', 'Thriller']",24,34,33,Generally Unfavorable,2,29,1,14,4,57,Universal Acclaim,8.5,170,88,12,6,11,6
+Old Guy,The Avenue Entertainment,"Feb 21, 2025",1 h 33 m,"['Action', 'Comedy', 'Crime']",0,0,33,Generally Unfavorable,0,0,5,45,6,55,Mixed or Average,5.4,4,50,1,13,3,38
+The Human Centipede (First Sequence),IFC Films,"Apr 28, 2010",1 h 32 m,['Horror'],5,6,33,Generally Unfavorable,3,20,4,27,8,53,Mixed or Average,4.1,50,22,76,34,98,44
+Code Name: The Cleaner,New Line Cinema,"Jan 5, 2007",1 h 24 m,"['Action', 'Comedy', 'Crime']",0,2,33,Generally Unfavorable,0,0,11,61,7,39,Mixed or Average,4.7,2,15,6,46,5,38
+About Cherry,IFC Films,"Sep 21, 2012",1 h 42 m,['Drama'],0,0,33,Generally Unfavorable,1,10,5,50,4,40,Mixed or Average,5.2,5,26,9,47,5,26
+Dear Wendy,Wellspring Media,"Sep 23, 2005",1 h 45 m,"['Comedy', 'Crime', 'Drama', 'Romance']",1,6,33,Generally Unfavorable,3,12,11,44,11,44,Mixed or Average,5.2,4,44,2,22,3,33
+After Earth,Columbia Pictures,"May 31, 2013",1 h 40 m,"['Action', 'Adventure', 'Drama', 'Sci-Fi']",3,8,33,Generally Unfavorable,4,10,17,41,20,49,Generally Unfavorable,3.7,124,19,175,27,342,53
+The Wedding Planner,Sony Pictures Entertainment (SPE),"Jan 26, 2001",1 h 43 m,"['Comedy', 'Romance']",0,6,33,Generally Unfavorable,2,7,14,48,13,45,Mixed or Average,5.9,19,40,17,36,11,23
+Dragon Wars: D-War,Freestyle Releasing,"Sep 14, 2007",1 h 30 m,"['Action', 'Drama', 'Fantasy', 'Thriller']",2,5,33,Generally Unfavorable,1,11,3,33,5,56,Generally Unfavorable,2.9,5,13,7,18,27,69
+Big Momma's House,Twentieth Century Fox Film Corporation,"Jun 2, 2000",1 h 38 m,"['Action', 'Comedy', 'Crime']",1,6,33,Generally Unfavorable,7,26,7,26,13,48,Mixed or Average,5.8,30,35,40,47,16,19
+The Haunting in Connecticut,Lionsgate,"Mar 27, 2009",1 h 32 m,"['Drama', 'Horror', 'Mystery', 'Thriller']",1,3,33,Generally Unfavorable,1,4,11,48,11,48,Mixed or Average,5.9,29,40,31,42,13,18
+The Mortal Instruments: City of Bones,Screen Gems,"Aug 21, 2013",2 h 10 m,"['Action', 'Adventure', 'Fantasy', 'Horror', 'Mystery', 'Romance']",6,13,33,Generally Unfavorable,2,6,17,49,16,46,Generally Favorable,6.2,179,53,58,17,99,29
+The Man,New Line Cinema,"Sep 9, 2005",1 h 23 m,"['Action', 'Comedy', 'Crime']",1,2,33,Generally Unfavorable,3,11,10,37,14,52,Generally Favorable,7.0,5,63,2,25,1,13
+The Dukes of Hazzard,Warner Bros. Pictures,"Aug 5, 2005",1 h 44 m,"['Action', 'Adventure', 'Comedy']",3,16,33,Generally Unfavorable,4,11,14,39,18,50,Mixed or Average,5.8,13,35,17,46,7,19
+Haunt,IFC Midnight,"Mar 7, 2014",1 h 26 m,"['Horror', 'Mystery', 'Romance']",0,0,33,Generally Unfavorable,0,0,5,42,7,58,Mixed or Average,4.9,7,39,3,17,8,44
+The 5th Wave,Columbia Pictures,"Jan 22, 2016",1 h 52 m,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",0,1,33,Generally Unfavorable,2,7,11,37,17,57,Mixed or Average,5.3,126,35,103,29,129,36
+Soul Plane,Metro-Goldwyn-Mayer (MGM),"May 28, 2004",1 h 26 m,['Comedy'],0,1,33,Generally Unfavorable,1,4,14,54,11,42,Mixed or Average,4.2,7,25,9,32,12,43
+Confessions of a Teenage Drama Queen,Buena Vista Pictures Distribution,"Feb 20, 2004",1 h 29 m,"['Comedy', 'Family', 'Music', 'Romance']",1,1,33,Generally Unfavorable,1,4,13,57,9,39,Generally Favorable,6.5,16,52,9,29,6,19
+I Dreamed of Africa,Columbia Pictures,"May 5, 2000",1 h 54 m,"['Adventure', 'Biography', 'Drama', 'Romance']",0,3,33,Generally Unfavorable,3,10,12,40,15,50,Mixed or Average,5.5,4,50,1,13,3,38
+New York Minute,Warner Bros. Pictures,"May 7, 2004",1 h 31 m,"['Adventure', 'Comedy', 'Crime', 'Family', 'Romance']",0,6,33,Generally Unfavorable,1,3,17,53,14,44,Mixed or Average,5.3,5,29,6,35,6,35
+Soul Plane,Metro-Goldwyn-Mayer (MGM),"May 28, 2004",1 h 26 m,['Comedy'],0,1,33,Generally Unfavorable,1,4,14,54,11,42,Mixed or Average,4.2,7,25,9,32,12,43
+Sleepover,Metro-Goldwyn-Mayer (MGM),"Jul 9, 2004",1 h 29 m,"['Comedy', 'Family', 'Romance']",1,4,33,Generally Unfavorable,3,10,15,52,11,38,Mixed or Average,4.4,5,31,3,19,8,50
+Jenny's Wedding,IFC Films,"Jul 31, 2015",1 h 34 m,"['Comedy', 'Drama', 'Romance']",0,1,33,Generally Unfavorable,0,0,5,50,5,50,Mixed or Average,5.6,5,31,7,44,4,25
+Cat Run,Lleju Productions,"Apr 1, 2011",1 h 42 m,"['Action', 'Comedy']",0,0,33,Generally Unfavorable,0,0,3,33,6,67,Mixed or Average,4.8,5,31,5,31,6,38
+The Longest Ride,Twentieth Century Fox Film Corporation,"Apr 10, 2015",2 h 19 m,"['Drama', 'Romance']",1,6,33,Generally Unfavorable,0,0,13,43,17,57,Mixed or Average,5.4,40,48,19,23,25,30
+Like a Boss,Paramount Pictures,"Jan 10, 2020",1 h 23 m,['Comedy'],1,6,33,Generally Unfavorable,2,6,15,48,14,45,Generally Unfavorable,3.4,7,16,12,28,24,56
+Can't Stand Losing You: Surviving the Police,Cinema Libre Studio,"Mar 20, 2015",1 h 19 m,"['Documentary', 'Biography', 'History', 'Music']",0,0,33,Generally Unfavorable,0,0,5,63,3,38,Mixed or Average,5.1,3,43,1,14,3,43
+God's Not Dead: A Light in Darkness,Pure Flix Entertainment,"Mar 30, 2018",1 h 45 m,['Drama'],0,3,33,Generally Unfavorable,0,0,6,67,3,33,Mixed or Average,4.9,22,48,4,9,20,43
+Leap Year,Universal Pictures,"Jan 8, 2010",1 h 40 m,"['Comedy', 'Romance']",0,0,33,Generally Unfavorable,3,10,14,47,13,43,Generally Favorable,6.2,33,51,22,34,10,15
+The Punisher,Lions Gate Films,"Apr 16, 2004",2 h 4 m,"['Action', 'Crime', 'Drama', 'Thriller']",1,6,33,Generally Unfavorable,5,14,15,42,16,44,Generally Favorable,6.7,139,56,84,34,24,10
+The Shack,Lionsgate,"Mar 3, 2017",2 h 12 m,"['Drama', 'Fantasy']",3,3,32,Generally Unfavorable,0,0,9,50,9,50,Mixed or Average,5.8,40,53,10,13,25,33
+Euphoria,Freestyle Releasing,"Jun 28, 2019",1 h 44 m,"['Adventure', 'Drama', 'Mystery']",0,4,32,Generally Unfavorable,0,0,7,58,5,42,Mixed or Average,5.5,5,42,3,25,4,33
+The Wedding Date,Universal Pictures,"Feb 4, 2005",1 h 30 m,"['Comedy', 'Romance']",0,0,32,Generally Unfavorable,1,3,16,47,17,50,Mixed or Average,5.9,6,32,10,53,3,16
+The Undefeated,AMC Theatres,"Jul 15, 2011",1 h 59 m,"['Documentary', 'Biography']",0,1,32,Generally Unfavorable,0,0,5,63,3,38,Generally Unfavorable,3.5,15,36,0,0,27,64
+The Brothers Solomon,TriStar Pictures,"Sep 7, 2007",1 h 33 m,['Comedy'],1,1,32,Generally Unfavorable,1,6,6,35,10,59,Mixed or Average,5.7,7,50,2,14,5,36
+The Ex,Metro-Goldwyn-Mayer (MGM),"May 11, 2007",1 h 29 m,"['Comedy', 'Romance']",0,0,32,Generally Unfavorable,3,13,9,38,12,50,Mixed or Average,5.2,3,25,4,33,5,42
+Every Thing Will Be Fine,IFC Films,"Dec 4, 2015",1 h 58 m,['Drama'],1,3,32,Generally Unfavorable,1,8,5,38,7,54,Mixed or Average,5.3,2,50,0,0,2,50
+October Baby,Provident Films,"Mar 23, 2012",1 h 47 m,"['Drama', 'Family', 'Mystery', 'Romance']",2,3,32,Generally Unfavorable,1,7,7,50,6,43,Generally Favorable,6.3,13,62,2,10,6,29
+Regression,"Weinstein Company, The","Feb 5, 2016",1 h 46 m,"['Crime', 'Drama', 'Mystery', 'Thriller']",1,3,32,Generally Unfavorable,2,17,4,33,6,50,Mixed or Average,5.3,22,25,49,56,17,19
+Kill by Inches,Phaedra Cinema,"Oct 26, 2001",1 h 20 m,"['Horror', 'Thriller', 'Fantasy']",0,2,32,Generally Unfavorable,1,14,3,43,3,43,Generally Unfavorable,3.8,2,40,0,0,3,60
+It's All About Love,Strand Releasing,"Oct 29, 2004",1 h 44 m,"['Drama', 'Romance', 'Sci-Fi', 'Thriller']",3,3,32,Generally Unfavorable,2,22,1,11,6,67,Generally Unfavorable,2.8,0,0,1,25,3,75
+Not Another Teen Movie,Columbia Pictures,"Dec 14, 2001",1 h 29 m,['Comedy'],0,5,32,Generally Unfavorable,3,14,8,36,11,50,Generally Favorable,6.2,33,43,31,41,12,16
+The Sweetest Thing,Columbia Pictures,"Apr 12, 2002",1 h 28 m,"['Comedy', 'Romance']",1,5,32,Generally Unfavorable,5,17,7,23,18,60,Mixed or Average,5.6,7,27,16,62,3,12
+Transformers: Age Of Extinction,Paramount Pictures,"Jun 27, 2014",2 h 45 m,"['Action', 'Adventure', 'Comedy', 'Sci-Fi', 'Thriller']",2,13,32,Generally Unfavorable,3,8,14,37,21,55,Mixed or Average,4.5,352,29,361,30,503,41
+Legion,Screen Gems,"Jan 22, 2010",1 h 40 m,"['Action', 'Fantasy', 'Horror']",0,0,32,Generally Unfavorable,0,0,8,57,6,43,Mixed or Average,4.7,38,27,47,34,54,39
+The Girl in the Photographs,Vertical Entertainment,"Apr 1, 2016",1 h 35 m,"['Crime', 'Horror', 'Mystery', 'Romance', 'Thriller']",0,1,32,Generally Unfavorable,1,10,3,30,6,60,Mixed or Average,4.2,1,17,2,33,3,50
+Ride Along 2,Universal Pictures,"Jan 15, 2016",1 h 42 m,"['Action', 'Comedy', 'Crime']",1,6,32,Generally Unfavorable,1,3,15,52,13,45,Mixed or Average,4.7,25,24,48,47,30,29
+Chapter 27,Vitagraph Films,"Mar 28, 2008",1 h 24 m,"['Biography', 'Crime', 'Drama', 'History']",2,2,32,Generally Unfavorable,4,21,7,37,8,42,Mixed or Average,5.6,7,44,5,31,4,25
+Land of the Blind,Bauer Martinez Studios,"Jun 16, 2006",1 h 50 m,"['Drama', 'Thriller']",0,1,32,Generally Unfavorable,0,0,4,40,6,60,Generally Favorable,7.1,6,55,5,45,0,0
+Redeeming Love,Universal Pictures,"Jan 21, 2022",2 h 14 m,"['Drama', 'Romance', 'Western']",1,2,32,Generally Unfavorable,0,0,3,43,4,57,Mixed or Average,4.8,9,33,5,19,13,48
+Down to Earth,Paramount Pictures,"Feb 16, 2001",1 h 27 m,"['Comedy', 'Fantasy']",0,3,32,Generally Unfavorable,6,21,9,32,13,46,Mixed or Average,5.3,5,28,8,44,5,28
+Primal,Lionsgate,"Nov 8, 2019",1 h 37 m,"['Action', 'Thriller']",0,0,32,Generally Unfavorable,1,9,4,36,6,55,Mixed or Average,4.0,3,20,7,47,5,33
+"I Love You, Beth Cooper",Twentieth Century Fox Film Corporation,"Jul 10, 2009",1 h 42 m,"['Adventure', 'Comedy', 'Family', 'Romance']",1,2,32,Generally Unfavorable,3,10,12,40,15,50,Mixed or Average,5.6,10,38,8,31,8,31
+The Hills Have Eyes II,Fox Atomic,"Mar 23, 2007",1 h 29 m,"['Horror', 'Thriller']",0,0,32,Generally Unfavorable,1,6,8,44,9,50,Mixed or Average,5.4,21,30,32,46,17,24
+Paranoia,Relativity Media,"Aug 16, 2013",1 h 46 m,"['Drama', 'Thriller']",0,1,32,Generally Unfavorable,0,0,18,60,12,40,Mixed or Average,4.1,12,18,29,43,27,40
+Scouts Guide to the Zombie Apocalypse,Paramount Pictures,"Oct 30, 2015",1 h 33 m,"['Action', 'Comedy', 'Horror']",0,5,32,Generally Unfavorable,1,6,7,41,9,53,Mixed or Average,5.7,52,45,42,36,22,19
+Independence Day: Resurgence,Twentieth Century Fox Film Corporation,"Jun 24, 2016",2 h,"['Action', 'Adventure', 'Sci-Fi']",0,9,32,Generally Unfavorable,2,5,17,43,21,53,Mixed or Average,4.5,174,27,208,32,267,41
+G.I. Joe: The Rise of Cobra,Paramount Pictures,"Aug 7, 2009",1 h 58 m,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",2,12,32,Generally Unfavorable,6,24,7,28,12,48,Mixed or Average,5.2,63,31,83,41,57,28
+Carlos Castaneda: Enigma of a Sorcerer,Indican Pictures,"Jun 2, 2004",1 h 31 m,['Documentary'],0,0,32,Generally Unfavorable,0,0,6,75,2,25,Mixed or Average,5.8,2,50,1,25,1,25
+Masked and Anonymous,Sony Pictures Classics,"Jul 24, 2003",1 h 52 m,"['Comedy', 'Drama', 'Music']",1,1,32,Generally Unfavorable,4,14,11,39,13,46,Generally Favorable,7.8,4,67,2,33,0,0
+The Santa Clause 3: The Escape Clause,Buena Vista Pictures,"Nov 3, 2006",1 h 37 m,"['Adventure', 'Comedy', 'Family', 'Fantasy']",4,12,32,Generally Unfavorable,1,6,8,47,8,47,Mixed or Average,4.6,14,22,25,38,26,40
+Warcraft,Universal Pictures,"Jun 10, 2016",2 h 3 m,"['Action', 'Adventure', 'Fantasy']",2,4,32,Generally Unfavorable,3,8,18,45,19,48,Universal Acclaim,8.1,2.6k,82,308,10,257,8
+Addicted,Lionsgate,"Oct 10, 2014",1 h 46 m,"['Drama', 'Romance', 'Thriller']",0,0,32,Generally Unfavorable,0,0,4,44,5,56,Generally Unfavorable,2.6,3,12,5,19,18,69
+Cats,Universal Pictures,"Dec 20, 2019",1 h 50 m,"['Comedy', 'Drama', 'Family', 'Fantasy', 'Musical']",7,11,32,Generally Unfavorable,6,12,23,45,22,43,Mixed or Average,5.1,280,47,35,6,280,47
+Repo! The Genetic Opera,Lionsgate,"Nov 7, 2008",1 h 38 m,"['Horror', 'Musical', 'Sci-Fi']",3,4,32,Generally Unfavorable,1,7,7,47,7,47,Generally Favorable,7.1,41,72,5,9,11,19
+The Scribbler,XLrator Media,"Sep 19, 2014",1 h 28 m,"['Drama', 'Mystery', 'Sci-Fi', 'Thriller']",0,0,32,Generally Unfavorable,1,13,3,38,4,50,Generally Favorable,7.9,6,75,2,25,0,0
+Agent Cody Banks 2: Destination London,Metro-Goldwyn-Mayer (MGM),"Mar 12, 2004",1 h 40 m,"['Action', 'Adventure', 'Comedy', 'Family', 'Romance', 'Sci-Fi']",0,0,32,Generally Unfavorable,3,12,11,44,11,44,Mixed or Average,4.4,8,19,14,33,20,48
+Beyond Borders,Paramount Pictures,"Oct 24, 2003",2 h 7 m,"['Adventure', 'Drama', 'Romance', 'War']",0,2,32,Generally Unfavorable,2,6,15,48,14,45,Mixed or Average,5.7,7,35,9,45,4,20
+Careful What You Wish For,Starz Digital Media,"Jun 10, 2016",1 h 31 m,"['Drama', 'Romance', 'Thriller']",0,1,32,Generally Unfavorable,2,17,4,33,6,50,Mixed or Average,5.1,11,41,7,26,9,33
+Every Breath You Take,Vertical Entertainment,"Apr 2, 2021",1 h 45 m,"['Drama', 'Mystery', 'Thriller']",0,0,32,Generally Unfavorable,0,0,5,63,3,38,Mixed or Average,5.3,3,25,7,58,2,17
+Cassadaga,Archstone Distribution,"Oct 11, 2013",1 h 48 m,"['Horror', 'Thriller']",0,0,32,Generally Unfavorable,0,0,3,43,4,57,Generally Unfavorable,3.4,0,0,2,40,3,60
+Land of the Lost,Universal Pictures,"Jun 5, 2009",1 h 42 m,"['Action', 'Adventure', 'Comedy', 'Sci-Fi']",2,10,32,Generally Unfavorable,4,13,12,38,16,50,Mixed or Average,5.1,34,33,37,36,33,32
+The Oogieloves in the Big Balloon Adventure,Big Balloon Adventure Movie,"Aug 29, 2012",1 h 28 m,"['Adventure', 'Family', 'Fantasy', 'Musical']",0,2,32,Generally Unfavorable,1,9,2,18,8,73,Generally Favorable,7.2,82,71,2,2,32,28
+Girl on a Bicycle,Monterey Media,"Feb 14, 2014",1 h 41 m,"['Comedy', 'Drama', 'Romance']",0,0,32,Generally Unfavorable,0,0,4,40,6,60,Generally Favorable,6.8,6,67,1,11,2,22
+Sinister 2,Focus Features,"Aug 21, 2015",1 h 37 m,"['Horror', 'Mystery', 'Thriller']",1,4,32,Generally Unfavorable,0,0,9,53,8,47,Mixed or Average,4.7,39,26,57,38,54,36
+Swordfish,Warner Bros. Pictures,"Jun 8, 2001",1 h 39 m,"['Action', 'Crime', 'Thriller']",3,9,32,Generally Unfavorable,4,12,14,42,15,45,Generally Favorable,6.3,46,46,39,39,15,15
+Firestarter,Universal Pictures,"May 13, 2022",1 h 34 m,"['Drama', 'Horror', 'Sci-Fi', 'Thriller']",0,5,32,Generally Unfavorable,3,10,12,41,14,48,Generally Unfavorable,2.9,1,2,24,40,35,58
+Robin Hood,Lionsgate,"Nov 21, 2018",1 h 56 m,"['Action', 'Adventure', 'Drama', 'Thriller']",0,4,32,Generally Unfavorable,3,11,13,46,12,43,Mixed or Average,4.1,47,25,52,27,91,48
+Plastic,ARC Entertainment (II),"Sep 26, 2014",1 h 42 m,"['Action', 'Comedy', 'Crime', 'Drama']",0,1,32,Generally Unfavorable,0,0,5,50,5,50,Generally Unfavorable,3.8,0,0,4,67,2,33
+Alex & Emma,Warner Home Video,"Jun 20, 2003",1 h 36 m,"['Comedy', 'Romance']",1,2,32,Generally Unfavorable,1,3,17,49,17,49,Mixed or Average,4.9,2,22,4,44,3,33
+Wrong Turn,Twentieth Century Fox Film Corporation,"May 30, 2003",1 h 24 m,"['Horror', 'Thriller']",0,3,32,Generally Unfavorable,2,12,7,41,8,47,Mixed or Average,6.0,51,44,41,36,23,20
+Tom & Jerry,Warner Bros.,"Feb 26, 2021",1 h 41 m,"['Animation', 'Adventure', 'Comedy', 'Family', 'Fantasy']",0,5,32,Generally Unfavorable,2,10,9,45,9,45,Mixed or Average,5.2,63,33,69,36,61,32
+"Game Over, Man!",Netflix,"Mar 23, 2018",1 h 41 m,"['Action', 'Comedy']",0,2,32,Generally Unfavorable,0,0,4,50,4,50,Mixed or Average,4.9,21,36,18,31,19,33
+Love Again,Sony Pictures Entertainment (SPE),"May 5, 2023",1 h 44 m,"['Comedy', 'Drama', 'Romance']",0,1,32,Generally Unfavorable,0,0,5,42,7,58,Mixed or Average,5.1,11,34,8,25,13,41
+The Unbelievers,,"Nov 29, 2013",1 h 17 m,['Documentary'],0,0,32,Generally Unfavorable,1,14,2,29,4,57,Generally Favorable,6.3,28,61,6,13,12,26
+The Forger,Lionsgate,"Apr 24, 2015",1 h 32 m,"['Crime', 'Drama', 'Thriller']",0,0,32,Generally Unfavorable,0,0,5,31,11,69,Generally Favorable,6.3,14,47,11,37,5,17
+Brightest Star,Gravitas Ventures,"Jan 31, 2014",1 h 20 m,"['Comedy', 'Drama', 'Romance']",0,0,32,Generally Unfavorable,0,0,4,44,5,56,Mixed or Average,6.0,2,50,0,0,2,50
+Someone Like You...,Fox 2000 Pictures,"Mar 30, 2001",1 h 37 m,"['Comedy', 'Romance']",0,0,32,Generally Unfavorable,4,13,12,40,14,47,Mixed or Average,5.3,5,33,6,40,4,27
+Crime and Punishment in Suburbia,United Artists,"Sep 15, 2000",1 h 40 m,"['Drama', 'Thriller']",0,3,32,Generally Unfavorable,3,21,3,21,8,57,Mixed or Average,4.8,2,50,0,0,2,50
+The Transporter Refueled,EuropaCorp USA,"Sep 4, 2015",1 h 36 m,"['Action', 'Thriller']",0,0,32,Generally Unfavorable,3,13,8,33,13,54,Mixed or Average,4.1,18,19,39,41,38,40
+Wish Upon,Broad Green Pictures,"Jul 14, 2017",1 h 30 m,"['Drama', 'Fantasy', 'Horror', 'Mystery', 'Thriller']",0,2,32,Generally Unfavorable,2,8,7,29,15,63,Mixed or Average,4.5,20,26,24,31,33,43
+The Kindness of Strangers,Vertical Entertainment,"Feb 14, 2020",1 h 52 m,['Drama'],0,4,32,Generally Unfavorable,1,9,4,36,6,55,Generally Favorable,6.7,4,57,3,43,0,0
+Broken Bridges,Paramount Vantage,"Sep 8, 2006",1 h 45 m,"['Drama', 'Music']",0,0,32,Generally Unfavorable,0,0,4,57,3,43,Mixed or Average,5.4,2,29,3,43,2,29
+Night at the Golden Eagle,Screen Media Films,"Apr 26, 2002",1 h 27 m,['Drama'],0,0,32,Generally Unfavorable,2,22,2,22,5,56,Mixed or Average,5.5,4,50,1,13,3,38
+The Secret: Dare to Dream,Roadside Attractions,"Jul 31, 2020",1 h 47 m,"['Drama', 'Romance']",0,2,32,Generally Unfavorable,1,9,5,45,5,45,Generally Favorable,6.6,15,58,5,19,6,23
+Saint John of Las Vegas,IndieVest Pictures,"Jan 29, 2010",1 h 25 m,"['Comedy', 'Drama']",0,1,32,Generally Unfavorable,2,10,10,48,9,43,Generally Favorable,7.4,4,57,2,29,1,14
+Broken Horses,Reliance Entertainment,"Apr 10, 2015",1 h 41 m,"['Action', 'Crime', 'Drama', 'Mystery', 'Thriller']",1,1,32,Generally Unfavorable,0,0,2,22,7,78,Mixed or Average,5.4,7,50,3,21,4,29
+Untraceable,Screen Gems,"Jan 25, 2008",1 h 41 m,"['Crime', 'Mystery', 'Thriller']",1,1,32,Generally Unfavorable,6,20,11,37,13,43,Generally Favorable,7.3,21,62,10,29,3,9
+Farmland,D&E Entertainment,"May 1, 2014",1 h 17 m,['Documentary'],0,0,32,Generally Unfavorable,1,14,2,29,4,57,Generally Favorable,7.8,13,76,2,12,2,12
+Tyler Perry's Acrimony,Lionsgate,"Mar 30, 2018",2 h,"['Drama', 'Horror', 'Romance', 'Thriller']",1,2,32,Generally Unfavorable,1,7,6,43,7,50,Mixed or Average,4.6,16,34,9,19,22,47
+Games People Play: New York,Artistic License,"Mar 12, 2004",1 h 37 m,['Comedy'],0,0,32,Generally Unfavorable,3,17,5,28,10,56,Universal Acclaim,9.5,4,100,0,0,0,0
+Showtime,Warner Bros. Pictures,"Mar 15, 2002",1 h 35 m,"['Action', 'Comedy', 'Crime']",1,6,32,Generally Unfavorable,6,18,10,29,18,53,Generally Favorable,6.1,16,40,17,43,7,18
+Black Knight,Twentieth Century Fox Film Corporation,"Nov 21, 2001",1 h 35 m,"['Adventure', 'Comedy', 'Fantasy']",0,2,32,Generally Unfavorable,5,19,6,23,15,58,Generally Favorable,6.3,20,53,8,21,10,26
+Unfinished Business,Twentieth Century Fox Film Corporation,"Mar 6, 2015",1 h 31 m,"['Comedy', 'Drama']",0,1,32,Generally Unfavorable,2,8,9,35,15,58,Mixed or Average,4.6,18,28,21,33,25,39
+The Hitman's Wife's Bodyguard,Lionsgate,"Jun 16, 2021",1 h 40 m,"['Action', 'Comedy', 'Crime', 'Romance', 'Thriller']",0,5,32,Generally Unfavorable,2,6,14,39,20,56,Mixed or Average,5.7,55,43,40,31,32,25
+Chernobyl Diaries,Warner Bros. Pictures,"May 25, 2012",1 h 30 m,"['Horror', 'Mystery', 'Thriller']",0,1,32,Generally Unfavorable,1,6,8,47,8,47,Mixed or Average,4.9,55,30,70,38,61,33
+A Week Away,Netflix,"Mar 26, 2021",1 h 30 m,"['Drama', 'Family', 'Musical']",0,1,32,Generally Unfavorable,0,0,3,43,4,57,Generally Favorable,7.8,27,75,4,11,5,14
+Repo Men,Universal Pictures,"Mar 19, 2010",1 h 51 m,"['Action', 'Sci-Fi', 'Thriller']",0,2,32,Generally Unfavorable,3,10,12,39,16,52,Generally Favorable,6.4,68,55,36,29,19,15
+Boogeyman,Screen Gems,"Feb 4, 2005",1 h 29 m,"['Drama', 'Horror', 'Mystery', 'Thriller']",0,0,32,Generally Unfavorable,2,11,6,32,11,58,Mixed or Average,5.5,15,36,12,29,15,36
+The Human Race,XLrator Media,"Jun 13, 2014",1 h 27 m,"['Action', 'Adventure', 'Drama', 'Fantasy', 'Horror', 'Mystery', 'Sci-Fi', 'Thriller']",7,8,32,Generally Unfavorable,1,14,3,43,3,43,Generally Favorable,7.2,19,68,3,11,6,21
+Fired Up!,Screen Gems,"Feb 20, 2009",1 h 30 m,"['Comedy', 'Sport']",1,1,31,Generally Unfavorable,2,11,7,39,9,50,Mixed or Average,5.3,7,33,10,48,4,19
+Just 45 Minutes from Broadway,Rainbow Releasing,"Oct 12, 2012",1 h 52 m,"['Comedy', 'Drama']",1,1,31,Generally Unfavorable,0,0,6,75,2,25,Universal Acclaim,9.6,7,100,0,0,0,0
+Dying of the Light,Lionsgate Home Entertainment,"Dec 5, 2014",1 h 34 m,"['Action', 'Drama', 'Thriller']",0,0,31,Generally Unfavorable,0,0,9,75,3,25,Generally Unfavorable,3.1,4,12,9,27,20,61
+Don't Tempt Me,First Look International,"Aug 22, 2003",1 h 52 m,"['Crime', 'Drama']",2,17,31,Generally Unfavorable,0,0,5,42,7,58,Universal Acclaim,8.1,7,88,1,13,0,0
+Max Payne,Twentieth Century Fox Film Corporation,"Oct 17, 2008",1 h 40 m,"['Action', 'Crime', 'Drama', 'Mystery', 'Thriller']",0,1,31,Generally Unfavorable,2,8,9,36,14,56,Mixed or Average,4.8,56,27,71,35,77,38
+Say Uncle,TLA Releasing,"Jun 23, 2006",1 h 31 m,"['Comedy', 'Drama']",0,0,31,Generally Unfavorable,3,33,1,11,5,56,Generally Favorable,7.3,5,71,1,14,1,14
+I Still See You,Lionsgate,"Oct 12, 2018",1 h 38 m,"['Fantasy', 'Horror', 'Mystery', 'Sci-Fi', 'Thriller']",0,0,31,Generally Unfavorable,0,0,2,29,5,71,Generally Favorable,6.4,8,42,10,53,1,5
+Charlie Countryman,Millennium Entertainment,"Nov 15, 2013",1 h 48 m,"['Comedy', 'Drama', 'Romance', 'Thriller']",0,2,31,Generally Unfavorable,3,15,6,30,11,55,Generally Favorable,6.5,23,59,7,18,9,23
+Mary,Film & TV House,"Oct 11, 2019",1 h 24 m,"['Horror', 'Mystery']",0,1,31,Generally Unfavorable,1,8,2,17,9,75,Mixed or Average,4.5,3,27,3,27,5,45
+Letters to God,Vivendi Entertainment,"Apr 9, 2010",1 h 50 m,['Drama'],0,1,31,Generally Unfavorable,0,0,4,57,3,43,Generally Favorable,7.3,18,78,1,4,4,17
+Tyler Perry's The Single Moms Club,,"Mar 14, 2014",1 h 51 m,"['Comedy', 'Drama']",0,2,31,Generally Unfavorable,0,0,8,50,8,50,Mixed or Average,4.6,17,40,6,14,20,47
+The King's Daughter,Gravitas Ventures,"Jan 21, 2022",1 h 30 m,"['Action', 'Adventure', 'Family', 'Fantasy', 'Romance']",1,5,31,Generally Unfavorable,3,17,6,33,9,50,Mixed or Average,4.2,5,22,10,43,8,35
+Jolene,Entertainment One,"Oct 29, 2010",2 h 1 m,['Drama'],2,2,31,Generally Unfavorable,2,20,3,30,5,50,Generally Favorable,7.1,5,63,2,25,1,13
+Before We Go,RADiUS-TWC,"Sep 4, 2015",1 h 35 m,"['Comedy', 'Drama', 'Romance']",0,0,31,Generally Unfavorable,0,0,4,40,6,60,Generally Favorable,7.2,36,65,16,29,3,5
+Surveillance,Magnet Releasing,"Jun 26, 2009",1 h 37 m,"['Crime', 'Drama', 'Mystery', 'Thriller']",3,6,31,Generally Unfavorable,1,8,6,50,5,42,Generally Favorable,6.4,7,70,0,0,3,30
+Fifty Shades Freed,Universal Pictures,"Feb 9, 2018",1 h 45 m,"['Drama', 'Mystery', 'Romance', 'Thriller']",3,9,31,Generally Unfavorable,8,19,10,23,25,58,Generally Unfavorable,3.6,39,23,33,20,97,57
+Rebel Moon Part 1: A Child of Fire,Netflix,"Dec 15, 2023",2 h 13 m,"['Action', 'Adventure', 'Drama', 'Fantasy', 'Sci-Fi']",2,4,31,Generally Unfavorable,1,3,21,53,18,45,Mixed or Average,4.8,213,35,137,23,258,42
+In the Mix,Lions Gate Films,"Nov 23, 2005",1 h 35 m,"['Comedy', 'Crime', 'Drama', 'Music', 'Romance']",0,1,31,Generally Unfavorable,0,0,6,40,9,60,Generally Favorable,6.8,3,60,1,20,1,20
+Silent Hill,TriStar Pictures,"Apr 21, 2006",2 h 5 m,"['Horror', 'Mystery']",0,6,31,Generally Unfavorable,2,10,9,43,10,48,Generally Favorable,7.4,422,72,102,17,59,10
+The Lazarus Effect,Relativity Media,"Feb 27, 2015",1 h 23 m,"['Horror', 'Mystery', 'Sci-Fi', 'Thriller']",0,2,31,Generally Unfavorable,5,17,9,31,15,52,Mixed or Average,4.8,24,22,44,41,40,37
+The Honeymooners,Paramount Pictures,"Jun 10, 2005",1 h 30 m,"['Comedy', 'Family', 'Romance']",1,4,31,Generally Unfavorable,2,7,9,33,16,59,Generally Favorable,6.2,8,50,2,13,6,38
+Lucky Numbers,Paramount Pictures,"Oct 27, 2000",1 h 45 m,"['Comedy', 'Crime']",2,3,31,Generally Unfavorable,4,13,13,43,13,43,Universal Acclaim,8.4,16,76,5,24,0,0
+Smurfs,Paramount Pictures,"Jul 18, 2025",1 h 29 m,"['Animation', 'Adventure', 'Comedy', 'Family', 'Fantasy', 'Musical']",0,1,31,Generally Unfavorable,2,7,8,30,17,63,Generally Unfavorable,3.2,4,10,14,36,21,54
+Cursed,Miramax Films,"Feb 25, 2005",1 h 37 m,"['Comedy', 'Horror', 'Mystery']",0,3,31,Generally Unfavorable,1,5,8,38,12,57,Mixed or Average,5.7,18,41,15,34,11,25
+Teenage Mutant Ninja Turtles,Paramount Pictures,"Aug 8, 2014",1 h 41 m,"['Action', 'Adventure', 'Comedy', 'Crime', 'Fantasy', 'Sci-Fi']",1,10,31,Generally Unfavorable,1,3,17,52,15,45,Mixed or Average,5.1,257,38,210,31,215,32
+Battlefield America,Brian & Barrett Pictures,"Jun 1, 2012",1 h 46 m,"['Drama', 'Musical']",0,0,31,Generally Unfavorable,0,0,6,67,3,33,Generally Unfavorable,2.7,6,23,3,12,17,65
+Murder of a Cat,Gravitas Ventures,"Dec 5, 2014",1 h 41 m,"['Comedy', 'Crime', 'Mystery', 'Romance', 'Thriller']",0,0,31,Generally Unfavorable,0,0,4,50,4,50,Generally Unfavorable,2.5,1,25,0,0,3,75
+Perfect Stranger,Columbia Pictures,"Apr 13, 2007",1 h 49 m,"['Crime', 'Mystery', 'Thriller']",1,1,31,Generally Unfavorable,3,10,11,35,17,55,Mixed or Average,5.2,9,26,16,46,10,29
+Your Highness,Universal Pictures,"Apr 8, 2011",1 h 42 m,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Romance']",1,3,31,Generally Unfavorable,2,6,14,42,17,52,Mixed or Average,5.0,66,34,65,34,63,32
+ma ma,Oscilloscope,"May 20, 2016",1 h 51 m,['Drama'],1,11,31,Generally Unfavorable,2,12,6,35,9,53,Mixed or Average,5.7,3,33,4,44,2,22
+House of 1000 Corpses,Lions Gate Films,"Apr 11, 2003",1 h 29 m,['Horror'],4,10,31,Generally Unfavorable,0,0,8,53,7,47,Mixed or Average,6.0,45,49,27,29,20,22
+Countdown,STX Entertainment,"Oct 25, 2019",1 h 30 m,"['Horror', 'Thriller']",0,0,31,Generally Unfavorable,1,6,7,44,8,50,Mixed or Average,4.6,21,30,26,37,23,33
+Show Dogs,Eagle Pictures,"May 18, 2018",1 h 32 m,"['Adventure', 'Comedy', 'Crime', 'Family']",0,1,31,Generally Unfavorable,1,7,7,50,6,43,Generally Unfavorable,2.5,6,17,2,6,28,78
+They,Miramax Films,"Nov 27, 2002",1 h 29 m,"['Horror', 'Mystery', 'Thriller']",1,2,31,Generally Unfavorable,2,13,6,38,8,50,Mixed or Average,5.7,14,48,5,17,10,34
+God Is a Bullet,Selecta Visión,"Jun 23, 2023",2 h 35 m,"['Action', 'Crime', 'Horror', 'Thriller']",0,0,31,Generally Unfavorable,1,11,2,22,6,67,Generally Favorable,6.6,15,56,8,30,4,15
+The Garfield Movie,Columbia Pictures,"May 24, 2024",1 h 41 m,"['Animation', 'Adventure', 'Comedy', 'Family', 'Fantasy']",2,3,31,Generally Unfavorable,1,3,14,48,14,48,Mixed or Average,5.1,47,34,45,33,45,33
+This Means War,Twentieth Century Fox Film Corporation,"Feb 17, 2012",1 h 38 m,"['Action', 'Comedy', 'Romance']",1,5,31,Generally Unfavorable,3,8,18,50,15,42,Mixed or Average,5.9,90,45,69,34,42,21
+That's My Boy,Columbia Pictures,"Jun 15, 2012",1 h 56 m,"['Comedy', 'Drama']",3,12,31,Generally Unfavorable,3,11,10,37,14,52,Mixed or Average,4.8,89,36,60,24,98,40
+5 Days of War,Anchor Bay Films,"Aug 19, 2011",2 h,"['Action', 'Drama', 'War']",0,0,31,Generally Unfavorable,1,7,6,43,7,50,Overwhelming Dislike,1.6,5,10,7,13,40,77
+Pootie Tang,Paramount Pictures,"Jun 29, 2001",1 h 21 m,"['Action', 'Adventure', 'Comedy', 'Musical']",0,1,31,Generally Unfavorable,3,16,4,21,12,63,Generally Favorable,6.6,10,50,8,40,2,10
+Antitrust,MGM Distribution,"Jan 12, 2001",1 h 49 m,"['Action', 'Crime', 'Drama', 'Thriller']",2,5,31,Generally Unfavorable,2,7,12,41,15,52,Mixed or Average,5.7,12,39,15,48,4,13
+Gossip,Warner Bros. Pictures,"Apr 21, 2000",1 h 30 m,"['Drama', 'Mystery', 'Thriller']",0,3,31,Generally Unfavorable,1,5,10,48,10,48,Generally Favorable,6.7,11,52,8,38,2,10
+Death Wish,Metro-Goldwyn-Mayer (MGM),"Mar 2, 2018",1 h 47 m,"['Action', 'Crime', 'Drama', 'Thriller']",0,4,31,Generally Unfavorable,1,3,15,47,16,50,Generally Favorable,6.9,143,63,55,24,29,13
+High School,Anchor Bay Films,"Jun 1, 2012",1 h 39 m,['Comedy'],0,0,31,Generally Unfavorable,1,6,6,38,9,56,Generally Favorable,7.3,10,67,4,27,1,7
+Pet Sematary: Bloodlines,Paramount+,"Oct 6, 2023",1 h 27 m,"['Fantasy', 'Horror']",1,3,31,Generally Unfavorable,0,0,6,60,4,40,Mixed or Average,4.8,7,29,6,25,11,46
+Garden Party,Roadside Attractions,"Jul 11, 2008",1 h 28 m,['Drama'],0,0,31,Generally Unfavorable,1,10,4,40,5,50,Universal Acclaim,9.4,5,100,0,0,0,0
+Jacob's Ladder,Vertical Entertainment,"Aug 23, 2019",1 h 29 m,"['Horror', 'Thriller']",0,0,31,Generally Unfavorable,0,0,4,50,4,50,Overwhelming Dislike,1.6,0,0,2,20,8,80
+Hellboy,Lionsgate,"Apr 12, 2019",2 h,"['Action', 'Adventure', 'Fantasy', 'Horror', 'Sci-Fi']",1,8,31,Generally Unfavorable,2,5,23,52,19,43,Mixed or Average,5.3,192,39,155,31,149,30
+Oxygono,Picture This! Entertainment,"Nov 18, 2005",1 h 40 m,"['Drama', 'Romance']",1,1,31,Generally Unfavorable,0,0,3,38,5,63,Generally Favorable,7.0,3,60,1,20,1,20
+Hounddog,Empire Film Group,"Sep 19, 2008",1 h 42 m,"['Drama', 'Music']",2,3,31,Generally Unfavorable,2,11,6,33,10,56,Universal Acclaim,8.1,14,82,2,12,1,6
+Hit by Lightning,Gravitas Ventures,"Oct 31, 2014",1 h 29 m,"['Comedy', 'Crime', 'Romance']",0,0,31,Generally Unfavorable,1,13,2,25,5,63,Generally Favorable,6.7,8,57,3,21,3,21
+Envy,DreamWorks Distribution,"Apr 30, 2004",1 h 39 m,['Comedy'],0,3,31,Generally Unfavorable,2,7,12,40,16,53,Mixed or Average,5.8,14,40,13,37,8,23
+Monster-in-Law,New Line Cinema,"May 13, 2005",1 h 41 m,"['Comedy', 'Romance']",1,9,31,Generally Unfavorable,4,11,11,29,23,61,Generally Favorable,6.7,30,58,11,21,11,21
+Fathers and Daughters,,"Jul 8, 2016",1 h 56 m,['Drama'],0,0,31,Generally Unfavorable,0,0,8,47,9,53,Generally Favorable,7.0,16,70,4,17,3,13
+Night Hunter,Saban Films,"Sep 6, 2019",1 h 38 m,"['Action', 'Adventure', 'Crime', 'Thriller']",1,2,31,Generally Unfavorable,0,0,4,40,6,60,Mixed or Average,5.1,8,42,4,21,7,37
+Hangman,Lionsgate Home Entertainment,"Dec 22, 2017",1 h 38 m,"['Crime', 'Drama', 'Horror', 'Mystery', 'Thriller']",0,0,31,Generally Unfavorable,1,13,1,13,6,75,Mixed or Average,5.1,9,30,11,37,10,33
+The Weekend,Strand Releasing,"Nov 3, 2000",1 h 37 m,['Drama'],1,2,31,Generally Unfavorable,1,11,5,56,3,33,Universal Acclaim,8.3,6,86,0,0,1,14
+Life or Something Like It,Twentieth Century Fox Film Corporation,"Apr 26, 2002",1 h 43 m,"['Comedy', 'Romance']",0,1,31,Generally Unfavorable,5,16,9,28,18,56,Generally Favorable,7.3,21,70,6,20,3,10
+The Starling,Netflix,"Sep 17, 2021",1 h 42 m,"['Comedy', 'Drama']",2,2,31,Generally Unfavorable,1,4,10,43,12,52,Generally Favorable,6.5,13,52,6,24,6,24
+Red Dawn,Metro-Goldwyn-Mayer (MGM),"Nov 21, 2012",1 h 33 m,"['Action', 'War']",1,4,31,Generally Unfavorable,1,3,14,42,18,55,Mixed or Average,4.3,54,28,58,30,83,43
+First Daughter,Twentieth Century Fox Film Corporation,"Sep 24, 2004",1 h 46 m,"['Comedy', 'Drama', 'Romance']",0,0,31,Generally Unfavorable,0,0,14,58,10,42,Mixed or Average,4.8,2,15,6,46,5,38
+Deception,Twentieth Century Fox Film Corporation,"Apr 25, 2008",1 h 47 m,"['Crime', 'Drama', 'Mystery', 'Thriller']",2,3,31,Generally Unfavorable,1,4,10,43,12,52,Mixed or Average,5.6,14,35,16,40,10,25
+Creature,Lockjaw Productions,"Sep 9, 2011",1 h 33 m,['Horror'],0,1,31,Generally Unfavorable,1,14,2,29,4,57,Mixed or Average,4.3,3,20,5,33,7,47
+The Black Waters of Echo's Pond,Parallel Media,"Apr 9, 2010",1 h 29 m,"['Fantasy', 'Horror', 'Thriller']",0,0,31,Generally Unfavorable,1,14,1,14,5,71,Universal Acclaim,8.1,5,63,3,38,0,0
+Blended,Warner Bros. Pictures,"May 23, 2014",1 h 57 m,"['Comedy', 'Romance']",1,8,31,Generally Unfavorable,2,6,14,42,17,52,Mixed or Average,5.6,90,46,52,27,53,27
+Inheritance,Vertical Entertainment,"May 22, 2020",1 h 51 m,"['Drama', 'Mystery', 'Thriller']",0,0,31,Generally Unfavorable,2,11,9,47,8,42,Mixed or Average,5.4,9,39,8,35,6,26
+The Reckoning,RLJ Entertainment,"Feb 5, 2021",1 h 50 m,"['Adventure', 'Drama', 'Horror']",18,28,31,Generally Unfavorable,0,0,4,57,3,43,Generally Favorable,6.6,7,50,4,29,3,21
+Sonny,Samuel Goldwyn Films,"Dec 27, 2002",1 h 50 m,"['Crime', 'Drama']",0,1,31,Generally Unfavorable,2,22,3,33,4,44,Generally Favorable,6.1,3,43,4,57,0,0
+Kill Switch,Saban Films,"Jun 16, 2017",1 h 31 m,"['Action', 'Sci-Fi', 'Thriller']",0,0,31,Generally Unfavorable,1,13,3,38,4,50,Generally Unfavorable,3.8,2,17,3,25,7,58
+National Security,Columbia Pictures,"Jan 17, 2003",1 h 28 m,"['Action', 'Comedy', 'Crime', 'Thriller']",0,0,31,Generally Unfavorable,5,20,7,28,13,52,Mixed or Average,5.9,15,35,17,40,11,26
+Love the Coopers,CBS Films,"Nov 13, 2015",1 h 47 m,"['Comedy', 'Fantasy', 'Romance']",0,2,31,Generally Unfavorable,4,15,10,38,12,46,Mixed or Average,4.9,16,31,18,35,18,35
+Texas Chainsaw 3D,"""DIA"" Productions GmbH & Co. KG","Jan 4, 2013",1 h 32 m,"['Horror', 'Mystery', 'Thriller']",2,8,31,Generally Unfavorable,0,0,9,53,8,47,Mixed or Average,4.6,58,27,73,34,81,38
+Hot Pursuit,Warner Bros.,"May 8, 2015",1 h 27 m,"['Action', 'Comedy', 'Crime']",0,4,31,Generally Unfavorable,3,8,10,28,23,64,Mixed or Average,4.7,48,36,32,24,55,41
+Cop Out,Warner Bros. Pictures,"Feb 26, 2010",1 h 47 m,"['Action', 'Comedy', 'Crime', 'Mystery']",0,1,31,Generally Unfavorable,0,0,15,43,20,57,Mixed or Average,5.5,42,32,56,43,33,25
+House at the End of the Street,Relativity Media,"Sep 21, 2012",1 h 41 m,"['Drama', 'Horror', 'Mystery', 'Thriller']",1,3,31,Generally Unfavorable,1,5,8,42,10,53,Mixed or Average,5.6,63,37,66,39,40,24
+The Book of Henry,Focus Features,"Jun 16, 2017",1 h 45 m,"['Crime', 'Drama', 'Thriller']",1,3,31,Generally Unfavorable,2,6,15,48,14,45,Mixed or Average,4.8,26,38,15,22,28,41
+Crazy Eyes,Strand Releasing,"Jul 6, 2012",1 h 35 m,['Comedy'],1,2,31,Generally Unfavorable,0,0,6,50,6,50,Universal Acclaim,8.3,3,75,0,0,1,25
+The Disappointments Room,Relativity Media,"Sep 9, 2016",1 h 32 m,"['Drama', 'Horror', 'Thriller']",0,1,31,Generally Unfavorable,0,0,4,57,3,43,Generally Unfavorable,3.0,4,12,9,27,20,61
+Vampire Academy,"Weinstein Company, The","Feb 7, 2014",1 h 44 m,"['Action', 'Comedy', 'Drama', 'Fantasy', 'Horror', 'Mystery', 'Romance', 'Thriller']",0,2,31,Generally Unfavorable,1,7,7,47,7,47,Generally Favorable,6.1,83,54,26,17,46,30
+Get a Job,CBS Films,"Mar 25, 2016",1 h 23 m,['Comedy'],0,0,31,Generally Unfavorable,1,10,4,40,5,50,Mixed or Average,5.5,19,42,14,31,12,27
+The Mummy: Tomb of the Dragon Emperor,Universal Pictures,"Aug 1, 2008",1 h 52 m,"['Action', 'Adventure', 'Fantasy', 'Horror']",2,4,31,Generally Unfavorable,2,6,12,36,19,58,Mixed or Average,4.8,43,23,83,44,61,33
+Dark Summer,IFC Films,"Jan 9, 2015",1 h 21 m,"['Horror', 'Thriller']",0,0,31,Generally Unfavorable,0,0,4,44,5,56,Generally Unfavorable,3.5,3,25,3,25,6,50
+The Life of David Gale,Universal Pictures,"Feb 21, 2003",2 h 10 m,"['Crime', 'Drama', 'Mystery', 'Thriller']",0,3,31,Generally Unfavorable,4,11,17,47,15,42,Generally Favorable,6.6,57,61,27,29,10,11
+Absolutely Anything,Atlas Distribution Company,"May 12, 2017",1 h 25 m,"['Comedy', 'Sci-Fi']",0,1,31,Generally Unfavorable,1,11,4,44,4,44,Mixed or Average,5.5,10,29,19,56,5,15
+Corporate Animals,Screen Media Films,"Sep 20, 2019",1 h 26 m,"['Comedy', 'Horror']",0,1,31,Generally Unfavorable,0,0,7,47,8,53,Mixed or Average,4.8,1,20,2,40,2,40
+Winter's Tale,Warner Bros.,"Feb 14, 2014",1 h 58 m,"['Drama', 'Fantasy', 'Mystery', 'Romance']",0,2,31,Generally Unfavorable,1,3,17,49,17,49,Mixed or Average,5.3,38,40,22,23,36,38
+A Fantastic Fear of Everything,Indomina Releasing,"Feb 7, 2014",1 h 40 m,"['Comedy', 'Horror']",1,5,31,Generally Unfavorable,1,7,7,50,6,43,Mixed or Average,5.3,7,47,4,27,4,27
+Slutty Summer,Embrem Entertainment,"Jun 10, 2005",1 h 25 m,"['Comedy', 'Drama', 'Romance']",0,0,31,Generally Unfavorable,0,0,3,43,4,57,Generally Favorable,7.3,3,75,0,0,1,25
+Friend Request,Entertainment Studios Motion Pictures,"Sep 22, 2017",1 h 32 m,"['Horror', 'Mystery', 'Thriller']",2,3,31,Generally Unfavorable,1,6,7,39,10,56,Mixed or Average,4.8,17,32,17,32,19,36
+Artemis Fowl,Walt Disney Studios Motion Pictures,"Jun 12, 2020",1 h 35 m,"['Adventure', 'Family', 'Fantasy', 'Sci-Fi']",0,2,31,Generally Unfavorable,2,6,13,39,18,55,Generally Unfavorable,2.8,23,13,25,14,126,72
+Dylan Dog: Dead of Night,Freestyle Releasing,"Apr 29, 2011",1 h 47 m,"['Action', 'Comedy', 'Crime', 'Fantasy', 'Horror', 'Mystery', 'Thriller']",0,1,31,Generally Unfavorable,0,0,4,40,6,60,Mixed or Average,5.0,15,38,11,28,14,35
+The Perfect Age of Rock 'n' Roll,Entertainment One,"Aug 5, 2011",1 h 32 m,"['Drama', 'Music']",2,3,31,Generally Unfavorable,0,0,5,56,4,44,Mixed or Average,4.1,2,29,2,29,3,43
+The Crow,Lionsgate,"Aug 23, 2024",1 h 51 m,"['Action', 'Crime', 'Fantasy', 'Horror', 'Romance', 'Thriller']",1,3,30,Generally Unfavorable,3,10,8,26,20,65,Generally Unfavorable,3.5,47,24,32,16,121,61
+Seventh Son,Universal Pictures,"Feb 6, 2015",1 h 42 m,"['Action', 'Adventure', 'Fantasy']",2,3,30,Generally Unfavorable,2,6,16,50,14,44,Mixed or Average,4.4,49,28,56,32,69,40
+A Day Without a Mexican,Televisa Cine,"May 14, 2004",1 h 40 m,"['Comedy', 'Drama', 'Fantasy', 'Mystery']",3,5,30,Generally Unfavorable,1,9,5,45,5,45,Mixed or Average,5.1,2,29,3,43,2,29
+The Cave,Screen Gems,"Aug 26, 2005",1 h 37 m,"['Adventure', 'Horror', 'Sci-Fi', 'Thriller']",0,0,30,Generally Unfavorable,2,8,8,33,14,58,Mixed or Average,5.1,12,27,21,48,11,25
+Alex Cross,Summit Entertainment,"Oct 19, 2012",1 h 41 m,"['Action', 'Crime', 'Mystery', 'Thriller']",0,3,30,Generally Unfavorable,1,3,16,47,17,50,Mixed or Average,4.3,12,17,29,40,31,43
+The Final Destination,Warner Bros. Pictures,"Aug 28, 2009",1 h 22 m,"['Horror', 'Thriller']",2,4,30,Generally Unfavorable,0,0,6,43,8,57,Mixed or Average,4.9,53,23,115,49,66,28
+Playing It Cool,Vertical Entertainment,"May 8, 2015",1 h 34 m,"['Comedy', 'Romance']",0,0,30,Generally Unfavorable,1,10,3,30,6,60,Mixed or Average,5.9,15,56,6,22,6,22
+Punisher: War Zone,Lionsgate,"Dec 5, 2008",1 h 43 m,"['Action', 'Crime', 'Drama', 'Thriller']",1,2,30,Generally Unfavorable,2,8,10,42,12,50,Mixed or Average,5.8,54,40,52,38,30,22
+Half Brothers,Focus Features,"Dec 4, 2020",1 h 36 m,"['Comedy', 'Drama']",0,1,30,Generally Unfavorable,1,14,2,29,4,57,Mixed or Average,5.2,5,29,7,41,5,29
+My Way,Well Go,"Apr 20, 2012",2 h 17 m,"['Action', 'Drama', 'War']",1,3,30,Generally Unfavorable,0,0,6,50,6,50,Universal Acclaim,8.1,23,79,4,14,2,7
+CBGB,XLrator Media,"Oct 4, 2013",1 h 41 m,"['Crime', 'Drama', 'Music', 'Romance']",0,0,30,Generally Unfavorable,1,6,5,29,11,65,Generally Favorable,6.7,15,56,8,30,4,15
+Badland,Arcangelo Entertainment,"Nov 30, 2007",2 h 45 m,"['Action', 'Horror']",3,5,30,Generally Unfavorable,2,22,2,22,5,56,Mixed or Average,5.3,5,42,3,25,4,33
+The Spirit,Lionsgate,"Dec 25, 2008",1 h 43 m,"['Action', 'Crime', 'Fantasy', 'Thriller']",0,4,30,Generally Unfavorable,2,8,7,29,15,63,Mixed or Average,5.1,27,38,17,24,27,38
+The Outsider,Netflix,"Mar 9, 2018",2 h,"['Crime', 'Drama', 'Thriller']",0,0,30,Generally Unfavorable,1,8,4,33,7,58,Generally Favorable,6.8,43,58,23,31,8,11
+Saw VI,Lionsgate,"Oct 23, 2009",1 h 30 m,"['Horror', 'Mystery', 'Thriller']",0,2,30,Generally Unfavorable,1,8,6,50,5,42,Generally Favorable,6.5,99,46,97,45,21,10
+Over Her Dead Body,New Line Cinema,"Feb 1, 2008",1 h 35 m,"['Comedy', 'Fantasy', 'Romance']",0,0,30,Generally Unfavorable,1,3,16,55,12,41,Mixed or Average,4.4,3,20,6,40,6,40
+The Babymakers,Millennium Entertainment,"Aug 3, 2012",1 h 35 m,['Comedy'],0,1,30,Generally Unfavorable,0,0,8,47,9,53,Mixed or Average,4.9,9,41,3,14,10,45
+The Hangover Part III,Warner Bros. Pictures,"May 23, 2013",1 h 40 m,"['Comedy', 'Crime']",2,3,30,Generally Unfavorable,4,11,14,38,19,51,Mixed or Average,5.4,215,36,231,38,155,26
+Love in the Time of Money,Blow Up Pictures,"Nov 1, 2002",1 h 30 m,"['Comedy', 'Drama', 'Romance']",1,3,30,Generally Unfavorable,1,7,5,33,9,60,Generally Favorable,8.0,5,83,0,0,1,17
+Gods and Generals,Warner Bros. Pictures,"Feb 21, 2003",3 h 39 m,"['Biography', 'Drama', 'History', 'War']",1,4,30,Generally Unfavorable,1,3,10,34,18,62,Generally Favorable,6.2,14,50,6,21,8,29
+The League of Extraordinary Gentlemen,Twentieth Century Fox Film Corporation,"Jul 11, 2003",1 h 50 m,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",0,10,30,Generally Unfavorable,3,8,13,36,20,56,Mixed or Average,5.8,57,43,55,41,22,16
+The Pacifier,Buena Vista Pictures,"Mar 4, 2005",1 h 35 m,"['Action', 'Comedy', 'Drama', 'Family']",1,9,30,Generally Unfavorable,0,0,11,41,16,59,Mixed or Average,5.7,33,41,30,38,17,21
+Kill Me Three Times,Magnet Releasing,"Apr 10, 2015",1 h 30 m,"['Action', 'Adventure', 'Comedy', 'Crime', 'Mystery', 'Thriller']",0,4,30,Generally Unfavorable,3,15,5,25,12,60,Mixed or Average,5.5,9,29,17,55,5,16
+Affluenza,FilmBuff,"Jul 11, 2014",1 h 25 m,['Drama'],0,0,30,Generally Unfavorable,0,0,6,50,6,50,Generally Favorable,6.3,2,50,1,25,1,25
+Oh My God,,"Nov 13, 2009",1 h 33 m,['Documentary'],0,1,30,Generally Unfavorable,1,11,5,56,3,33,Generally Favorable,6.6,7,54,4,31,2,15
+USS Indianapolis: Men of Courage,Saban Films,"Nov 11, 2016",2 h 8 m,"['Action', 'Drama', 'History', 'Thriller', 'War']",0,1,30,Generally Unfavorable,1,13,1,13,6,75,Mixed or Average,4.4,7,23,14,47,9,30
+Little Boy,Open Road Films,"Apr 24, 2015",1 h 46 m,"['Drama', 'History', 'War']",0,2,30,Generally Unfavorable,3,13,8,33,13,54,Generally Favorable,6.5,37,60,10,16,15,24
+The Boy Next Door,Universal Pictures,"Jan 23, 2015",1 h 31 m,['Thriller'],1,4,30,Generally Unfavorable,2,6,10,30,21,64,Mixed or Average,5.6,53,44,24,20,43,36
