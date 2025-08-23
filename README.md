@@ -51,7 +51,7 @@ python src/scraper.py
 ```bash
 python src/preprocessing.py
 ```
-6. You will get movie_details.csv and genre.csv inside data folder. To check our scraped data you can visit this [link] for movie_details.csv(https://github.com/Atquiya-Labiba/Analyzing-Critic-and-User-Scores-in-Movies/blob/main/data/movie_details.csv) and for [genre.csv](https://github.com/Atquiya-Labiba/Analyzing-Critic-and-User-Scores-in-Movies/blob/main/data/genre.csv)
+6. You will get movie_details.csv and genre.csv inside data folder. To check our scraped data you can visit [movie_details.csv](https://github.com/Atquiya-Labiba/Analyzing-Critic-and-User-Scores-in-Movies/blob/main/data/movie_details.csv) and [genre.csv](https://github.com/Atquiya-Labiba/Analyzing-Critic-and-User-Scores-in-Movies/blob/main/data/genre.csv)
 
 ## Contact
 If you have any queries you can contact me here: atquiyaoni@gmail.com
