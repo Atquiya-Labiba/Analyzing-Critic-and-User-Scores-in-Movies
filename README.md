@@ -2,7 +2,7 @@
 Every wondered why critics and users sometimes see movies so differently?This project analyzes critic and user scores in movies visualizing trends,score gaps and key insights to uncover interesting patterns.
 
 ## Problem Statement
-This project aims to scrape movie details from this [website](https://www.metacritic.com/browse/movie/?releaseYearMin=2000&releaseYearMax=2025&page=1) for movies released between 2000 and 2025. After collecting the data, the goal is to identify gaps in the dataset and analyze the factors that may influence them.
+This project aims to scrape movie details from this [website](https://www.metacritic.com/browse/movie/?releaseYearMin=2000&releaseYearMax=2025&page=1) for movies released between 2000 and 2025.After collecting the data, the goal is to identify gaps in the dataset and analyze the factors that may influence them.Approximately 9,000 entries have been scraped.
 
 ## Goals and Objective
 **Goal:**
