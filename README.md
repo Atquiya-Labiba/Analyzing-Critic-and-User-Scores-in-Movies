@@ -14,17 +14,20 @@ Understand the disparity between critic and user reviews in movies
 - Visualize insights in Tableau Dashboard for clear interpretation
 
 **Key Questions**
--Is the critic-audience gap increasing or decreasing over time?
--Which genres consistently favor critics vs audiences?
--To what extent do critic and audience ratings align across streaming platforms, and how can this inform platform-specific content strategies?
--How do award-winning films perform in terms of audience alignment?
+- Is the critic-audience gap increasing or decreasing over time?
+- Which genres consistently favor critics vs audiences?
+- To what extent do critic and audience ratings align across streaming platforms, and how can this inform platform-specific content strategies?
+- How do award-winning films perform in terms of audience alignment?
 
 You can visit the dashboard [here](https://public.tableau.com/app/profile/atquiya.labiba.oni/viz/AnalyzingCriticandUserScoresinMovies/MovieReceptionTrendsGenreAnalysis)
  ## Findings and Observations from the [Dashboard](https://public.tableau.com/app/profile/atquiya.labiba.oni/viz/AnalyzingCriticandUserScoresinMovies/MovieReceptionTrendsGenreAnalysis)
- -There is a convergence trend among critics and users over the 25 years
- - Critics prefers Action and Adventure genres more while users prefer Comedy genre more
+ - There is a convergence trend among critics and users over the 25 years
+ - User tend to score higher than critics as almost all genres have negative score gap
+ - The largest negative gaps are in Action, Adventure, Family
+ - The smaller gap in Horror and Mystery suggest user and critic have positive alignment
+ - Gaps decreases as awards increases
  - Hulu platform leans towards critic favored while mainstream platforms align closer to user preferences
- - The data suggests that critics are generally more lenient, with professional reviews showing higher ratings compared to the general audience
+ - The data suggests that users are more polarized than critics
 
 ## Build From Sources and Run the Selenium Scraper
 1. Clone the repo
