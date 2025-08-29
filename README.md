@@ -26,7 +26,7 @@ You can visit the dashboard [here](https://public.tableau.com/app/profile/atquiy
  - The largest negative gaps are in Action, Adventure, Family
  - The smaller gap in Horror and Mystery suggest user and critic have positive alignment
  - Gaps decreases as awards increases
- - Hulu platform leans towards critic favored while mainstream platforms align closer to user preferences
+ - Disney+ platform leans towards critic favored while mainstream platforms align closer to user preferences
  - The data suggests that users are more polarized than critics
 
 ## Build From Sources and Run the Selenium Scraper
