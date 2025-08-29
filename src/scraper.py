@@ -287,7 +287,8 @@ def save_chunks(data,chunk_id):
     df = pd.DataFrame(data)    
     # Save to CSV
     filename = f"chunk_{chunk_id}.csv"
-    folder_path="data/dataset_chunks"    
+    folder_path="data/dataset_chunks"
+    os.makedirs(folder_path, exist_ok=True)    
     file_full_path=os.path.join(folder_path,filename)
     df.to_csv(file_full_path, index=False)
     print(f"Saved {len(df)} rows to {filename}")    
