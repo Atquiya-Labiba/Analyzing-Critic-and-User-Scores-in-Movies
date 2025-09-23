@@ -8,8 +8,7 @@ import random
 import pandas as pd
 import os
 
-def driver_initialization():
-    
+def driver_initialization():    
     options = Options()
     options.headless = True    
     options.add_argument("--log-level=3")  
@@ -18,29 +17,23 @@ def driver_initialization():
     return(webdriver.Chrome( options=options))
 
 def get_all_urls(driver):
-    web_url="https://www.metacritic.com/browse/movie/?releaseYearMin=2000&releaseYearMax=2025&page=1"
-
-    driver.get(web_url)
+    web_url="https://www.metacritic.com/browse/movie/?releaseYearMin=2000&releaseYearMax=2025&page="    
     urls=[]
-    while True:
-        time.sleep(2)
-        cards=driver.find_elements(By.CSS_SELECTOR, '[data-testid="filter-results"]')       
+    for page in range(1,555):
+        driver.get(web_url + str(page))        
+        time.sleep(1)    
+    
+        cards=driver.find_elements(By.CLASS_NAME, 'c-finderProductCard_container')       
 
         for card in cards: 
             try:           
-                movie_url=card.find_element(By.TAG_NAME, "a").get_attribute("href")
-                urls.append(movie_url)                
+                movie_url=card.get_attribute("href")
+                if "/movie/" in movie_url:  #Just return valid movie urls
+                    urls.append(movie_url)                
             except NoSuchElementException:
                 movie_url=None
-
-        #Traverse Next Page Cards
-        try:
-            next_page=driver.find_element(By.CSS_SELECTOR,"span.c-navigationPagination_item--next.enabled")
-            next_page.click()
-            time.sleep(2)
-        except:            
-            break
-    return [url for url in urls if "/movie/" in url] #Just return valid movie urls
+        
+    return urls         
 
 def navigate_url(url):
 
@@ -74,8 +67,7 @@ def scrape_details(driver,url):
 
     #Scrape Title of the Movie
     try:
-        title_container=driver.find_element(By.CSS_SELECTOR, '[data-testid="hero-title"]')
-        movie_info['Title']=title_container.find_element(By.TAG_NAME, 'h1').text       
+        movie_info['Title']=driver.find_element(By.CLASS_NAME, 'c-productHero_title').text              
 
     except NoSuchElementException:
        movie_info['Title']=None
@@ -102,7 +94,7 @@ def scrape_details(driver,url):
             movie_info['Streaming Platform'] = None
 
     except NoSuchElementException:
-        movie_info['Streaming Platform'] = []    
+        movie_info['Streaming Platform'] = None    
 
     #Scrape details card
     ##Find details section
@@ -125,8 +117,7 @@ def scrape_details(driver,url):
 
             elif label == "Duration":                
                 spans = sec.find_elements(By.TAG_NAME, "span")
-                movie_info['Duration'] = spans[1].text.strip()      
-
+                movie_info['Duration'] = spans[1].text.strip()
         
             elif label == "Genres":
                 try:
@@ -134,12 +125,12 @@ def scrape_details(driver,url):
                     li_items = ul.find_elements(By.TAG_NAME, "li")
                     movie_info['Genres'] = [li.find_element(By.TAG_NAME, "span").text.strip() for li in li_items]
                 except:
-                    movie_info['Genres']=[]            
+                    movie_info['Genres']=None            
 
     #Scrape Award details
     try:
         award_cont=driver.find_element(By.CLASS_NAME, "c-productionAwardSummary_awards")
-        award_part = award_cont.find_elements(By.CSS_SELECTOR, ".c-productionAwardSummary_award")
+        award_part = award_cont.find_elements(By.CLASS_NAME, "c-productionAwardSummary_award")
         total_wins=0
         total_nom_wins=0
         for award in award_part:          
@@ -174,25 +165,26 @@ def scrape_metascore_details(driver,url):
 
     critic_rev_details = {}        
     try:
-        critic_container = driver.find_element(By.CSS_SELECTOR, '[data-testid="critic-score-info"]')        
-        cont_div=driver.find_element(By.CLASS_NAME, "c-siteReviewScore_background-critic_medium")
-        score_span = cont_div.find_element(By.TAG_NAME, "span")
-        critic_rev_details['Metascore'] = score_span.text        
+        critic_container = driver.find_elements(By.CLASS_NAME, 'c-productScoreInfo_scoreNumber')        
+        cont_div=critic_container[0].find_elements(By.TAG_NAME, "div")
+        critic_rev_details['Metascore']  = cont_div[1].find_element(By.TAG_NAME, "span").text        
 
     except NoSuchElementException:
         critic_rev_details['Metascore'] = None    
 
     #Critic Category
     try:        
-        critic_category_cls=critic_container.find_element(By.CLASS_NAME, "c-productScoreInfo_scoreSentiment")
-        critic_rev_details['Critic Category'] = critic_category_cls.text
+        critic_category_cls=driver.find_elements(By.CLASS_NAME, "c-productScoreInfo_scoreSentiment")
+        critic_rev_details['Critic Category'] = critic_category_cls[0].text
 
     except NoSuchElementException:
         critic_rev_details['Critic Category']=None
 
     #Getting review url
     try:
-        critic_rev_url=driver.find_element(By.CSS_SELECTOR,"span.c-productScoreInfo_reviewsTotal a").get_attribute("href")
+        critic_rev=driver.find_elements(By.CLASS_NAME,"c-productScoreInfo_reviewsTotal")
+        tag=critic_rev[0].find_element(By.TAG_NAME, "a")
+        critic_rev_url=tag.get_attribute("href")
 
     except NoSuchElementException:        
         print("No user review URL found. Skipping critic season scraping.")
@@ -203,13 +195,12 @@ def scrape_metascore_details(driver,url):
     time.sleep(1)   
 
     try:
-        critic_score_containers = driver.find_element(By.CSS_SELECTOR, "div.c-scoreCount_container.u-grid")
-        labels = critic_score_containers.find_elements(By.CSS_SELECTOR, "div.c-scoreCount_text")
-        counts = critic_score_containers.find_elements(By.CSS_SELECTOR, "div.c-scoreCount_count")        
+        critic_score_containers = driver.find_element(By.CLASS_NAME, "c-scoreCount_container")
+        labels = critic_score_containers.find_elements(By.CLASS_NAME, "c-scoreCount_text")
+        counts = critic_score_containers.find_elements(By.CLASS_NAME, "c-scoreCount_count")         
         
     except NoSuchElementException:
         critic_score_containers=None
-
 
     for label, count in zip(labels, counts):
         sentiments = label.text.strip().lower() # Will give positive,mixed,negative           
@@ -233,18 +224,20 @@ def scrape_userscore_details(driver,url):
 
     try:
     # Select the main container
-        user_container = driver.find_element(By.CSS_SELECTOR, "div.c-productScoreInfo[data-testid='user-score-info']")
+        user_container = driver.find_elements(By.CLASS_NAME, 'c-productScoreInfo_scoreNumber')       
         try:            
-            user_rev_details["User Score Category"] = user_container.find_element(By.CSS_SELECTOR, "div.c-productScoreInfo_text span.c-productScoreInfo_scoreSentiment").text
+            cont_div=user_container[1].find_elements(By.TAG_NAME, "div")
+            user_rev_details['User Score'] = cont_div[1].find_element(By.TAG_NAME, "span").text            
 
         except NoSuchElementException:
-            user_rev_details["User Score Category"]=None
+            user_rev_details["User Score"]=None
 
         try:
-            user_rev_details["User Score"] = user_container.find_element(By.CSS_SELECTOR, "div.c-productScoreInfo_scoreNumber span").text
+            user_cat= driver.find_elements(By.CLASS_NAME,"c-productScoreInfo_scoreSentiment")
+            user_rev_details["User Score Category"]=user_cat[1].text
 
         except NoSuchElementException:
-             user_rev_details["User Score"]=None
+             user_rev_details["User Score Category"]=None
 
     except NoSuchElementException:
         pass
@@ -252,7 +245,9 @@ def scrape_userscore_details(driver,url):
           
     # Getting review url 
     try:
-        user_rev_url=user_container.find_element(By.CSS_SELECTOR,"span.c-productScoreInfo_reviewsTotal a").get_attribute("href")        
+        user_rev=driver.find_elements(By.CLASS_NAME,"c-productScoreInfo_reviewsTotal")
+        tag=user_rev[1].find_element(By.TAG_NAME, "a")
+        user_rev_url=tag.get_attribute("href")               
 
     except NoSuchElementException:
         print("No user review URL found")
@@ -262,9 +257,9 @@ def scrape_userscore_details(driver,url):
     time.sleep(1)        
 
     try:
-        user_score_container = driver.find_element(By.CSS_SELECTOR, "div.c-scoreCount_container.u-grid")
-        labels = user_score_container.find_elements(By.CSS_SELECTOR, "div.c-scoreCount_text")
-        counts = user_score_container.find_elements(By.CSS_SELECTOR, "div.c-scoreCount_count")           
+        user_score_container = driver.find_element(By.CLASS_NAME, "c-scoreCount_container")
+        labels = user_score_container.find_elements(By.CLASS_NAME, "c-scoreCount_text")
+        counts = user_score_container.find_elements(By.CLASS_NAME, "c-scoreCount_count")                    
         
     except NoSuchElementException:
         user_score_container= None
@@ -298,20 +293,11 @@ def chunk_dataset(url_list,size):
         yield url_list[i: i+size]
 
 
-
-
-
+#======Main Function===================
 def main():
-
     #Initialize the driver
     driver=driver_initialization()
-
-    movie_all_urls=[]
-    all_urls=get_all_urls(driver)   
-
-    movie_all_urls=all_urls  
-            
-        
+    movie_all_urls=get_all_urls(driver)
     
     with ProcessPoolExecutor(max_workers=5) as executor:        
         for index, url_chunk in enumerate(chunk_dataset(movie_all_urls, size=500), start=1):            

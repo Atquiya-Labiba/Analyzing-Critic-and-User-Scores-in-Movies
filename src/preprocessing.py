@@ -136,20 +136,6 @@ def seperate_genre(movie_df):
 
     return genre_df
 
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
 if __name__ == "__main__":
     main()
 
